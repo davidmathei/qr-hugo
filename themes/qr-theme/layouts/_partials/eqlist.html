@@ -1,0 +1,22 @@
+<div class="list-container">
+  {{- range where site.Pages "Params.Tags" "intersect" (slice "equipa") }}    
+    <!-- extra-class based on type or tag -->
+    <div class="list-item-container">
+      <h2>{{ .Params.title }}</h2>
+      <h3>{{ .Params.function }}</h3>
+      <div class="summary">
+         {{ with .Resources.Get .Params.picture }}
+            <img class="thumb-equipa" src="{{ .RelPermalink }}" width="150px"/>
+         {{ end }}
+      <!-- {{ .Summary }} -->
+      <br/><br/><a href="{{ .RelPermalink }}">ler&nbsp;mais</a>
+      </div>
+      <!--
+          image / thumbnail
+          title
+          summary
+          link to full article
+      -->
+    </div>
+  {{- end }}
+</div>

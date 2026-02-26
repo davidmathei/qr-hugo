@@ -1,0 +1,23 @@
+<div class="list-container">
+  <!-- todo: pass on the range denominator and query/sort criteria from the caller -->
+  {{- range .pg }}    
+    <!-- extra-class based on type or tag -->
+    <div class="list-item-container">
+      <h2>Some event of a certain type</h2>
+      <h3>12-03-2026 18:30</h3>
+      <div class="summary">
+         {{ with resources.Get "images/dummy.jpg" }}
+            <img class="thumb" src="{{ .RelPermalink }}" width="150px"/>
+         {{ end }}
+      stuff, theater, music, things happening. People will be present. It's going to be loud.
+      <br/><br/><a href="{{ .RelPermalink }}">ler&nbsp;mais</a>
+      </div>
+      <!--
+          image / thumbnail
+          title
+          summary
+          link to full article
+      -->
+    </div>
+  {{- end }}
+</div>

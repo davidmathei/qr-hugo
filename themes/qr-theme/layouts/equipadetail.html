@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <div class="equipahead">
+    {{ with .Resources.Get .Params.picture }}
+      <img src="{{ .RelPermalink }}" class="maybefloater"/>
+    {{ end }}
+    <h2>{{ .Params.title }}</h2>
+    <h3>{{ .Params.function }}</h3>
+  </div>
+  {{ .Content }}
+{{ end }}

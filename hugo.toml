@@ -1,0 +1,4 @@
+baseURL = 'https://ceusdosul.net/qr/'
+languageCode = 'pt-pt'
+title = 'Questao Repetida'
+theme = 'qr-theme'

@@ -1,0 +1,14 @@
+  <div class="footer-content">
+    <div class="social">
+      {{ partial "social-follow.html" . }}
+    </div>
+    <div class="contact">
+      Email: {{partial "email" .}}<br/> 
+      Telemovel: {{partial "phone" .}}
+    </div>
+    <div class="bottomlinks">
+       impressum<br/>
+       data protection
+    </div>
+  </div>  
+  <div class="copy">&copy; {{ now.Format "2006" }} {{ .Site.Title }}</div>

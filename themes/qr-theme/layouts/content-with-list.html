@@ -1,0 +1,4 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ partial "list" (dict "ctx" . "pg" .Site.Pages) }}
+{{ end }}
