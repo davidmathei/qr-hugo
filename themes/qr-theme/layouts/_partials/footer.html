@@ -7,8 +7,8 @@
       Telemovel: {{partial "phone" .}}
     </div>
     <div class="bottomlinks">
-       impressum<br/>
-       data protection
+       <a href="{{ relref . "/impressum" }}" title="Impressum" >Impressum</a><br/>
+       <a href="{{ relref . "/privacy" }}" title="Privacidade">Privacidade</a>
     </div>
   </div>  
   <div class="copy">&copy; {{ now.Format "2006" }} {{ .Site.Title }}</div>

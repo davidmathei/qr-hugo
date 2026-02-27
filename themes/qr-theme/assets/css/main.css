@@ -50,7 +50,7 @@ span.bar {
   list-style: none;
   justify-content: space-between;
   align-items: center;
-  gap: 2rem;
+  gap: 1.5rem;
 }
 
 .lvl2 {
@@ -178,6 +178,7 @@ a {
     opacity: 1;
     background-color: white;
     box-shadow: 0 10px 27px rgba(0, 0, 0, 0.5);
+    align-items: stretch;
 
   }
   .hamburger {
@@ -186,6 +187,7 @@ a {
   }
   .lvl1.active {
     left: 0;
+    padding-left: 0;
   }
   .hamburger.active .bar:nth-child(2) {
     opacity: 0;
@@ -201,13 +203,19 @@ a {
   .lvl1 {
     padding-top: 0.75em;
     padding-bottom: 0.75em;
+    /*width: 200px;*/
+    padding-left: 0;
+    background-color:#f1f1fe;
   }
   /* WIP */
   .lvl1 li {
-    background-color:#f1f1fe;
-    width: 100%;
+    padding-left:1em
   }
 
+  .lvl1 a {
+    font-size:1.25em;
+  }
+  
 }
 
 

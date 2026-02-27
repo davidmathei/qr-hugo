@@ -4,3 +4,5 @@ TODO
 *tgz
 public
 .hugo_build.lock
+*swp
+.*swp
