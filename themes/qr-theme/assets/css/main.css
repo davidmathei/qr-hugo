@@ -178,6 +178,7 @@ a {
     opacity: 1;
     background-color: white;
     box-shadow: 0 10px 27px rgba(0, 0, 0, 0.5);
+
   }
   .hamburger {
     display: block;
@@ -197,7 +198,15 @@ a {
     -webkit-transform: translateY(-8px) rotate(-45deg);
     transform: translateY(-8px) rotate(-45deg);
   }
-
+  .lvl1 {
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+  }
+  /* WIP */
+  .lvl1 li {
+    background-color:#f1f1fe;
+    width: 100%;
+  }
 
 }
 

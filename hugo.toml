@@ -1,4 +1,61 @@
-baseURL = 'https://ceusdosul.net/qr/'
+baseURL = 'https://example.org/'
+# baseURL = 'https://www.ceusdosul.net/qr/'
 languageCode = 'pt-pt'
 title = 'Questao Repetida'
 theme = 'qr-theme'
+
+[params]
+  facebook = 'https://facebook.com/questao.repetida'
+  instagram = 'https://instagram.com/questao.repetida'
+  whatsapp = 'https://wa.me/351932399639'
+
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'Equipa'
+    pageRef = '/equipa'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Agenda'
+    pageRef = '/agenda'
+    weight = 20
+
+  [[menus.main]]
+    name = "Orquestra d'aquem Mar"
+    identifier = 'orq'
+    pageRef = '/orquestra'
+    weight = 20
+
+  [[menus.main]]
+    name = "Sons d'aquem Mar"
+    parent = 'orq'
+    pageRef = '/sons'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Projetos'
+    identifier = 'projetos'
+    pageRef = '/projetos'
+
+  [[menus.main]]
+    name = 'Criação Artistica'
+    parent = 'projetos'
+    pageRef = '/eventos/artistica'
+
+  [[menus.main]]
+    name = 'Criação Participativa'
+    parent = 'projetos'
+    pageRef = '/eventos/participativa'
+
+  [[menus.main]]
+    name = 'Artes Visuais'
+    parent = 'projetos'
+    pageRef = '/eventos/artesvisuais'
+
+
