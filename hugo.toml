@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 # baseURL = 'https://www.ceusdosul.net/qr/'
 languageCode = 'pt-pt'
-title = 'Questao Repetida'
+title = 'Questão Repetida'
 theme = 'qr-theme'
 
 [params]

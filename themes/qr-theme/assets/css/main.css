@@ -87,7 +87,6 @@ header,footer {
   flex-direction: row;
   flex-wrap: wrap;
   align-items: stretch;
-  border: 1px solid blue;
 }
 
 .copy {
@@ -112,7 +111,6 @@ header,footer {
 
 }
 .social, .contact, .bottomlinks {
-  border: 1px solid red;
   padding: 1em;
   margin: 1em;
   flex-grow: 1;
@@ -135,7 +133,7 @@ a {
 
 .list-item-container {
   border-radius:25px;
-  border: 4px solid green;
+  border: 2px solid green;
   padding: 1.5em;
   margin: 1em;
 }
@@ -176,9 +174,15 @@ a {
     border-radius: 10px;
     transition: 0.3s;
     opacity: 1;
-    background-color: white;
+    background-color: #b3ffb3;
     box-shadow: 0 10px 27px rgba(0, 0, 0, 0.5);
     align-items: stretch;
+    justify-content: center;
+    gap: 0;
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    /*width: 200px;*/
+    padding-left: 0;
 
   }
   .hamburger {
@@ -187,7 +191,6 @@ a {
   }
   .lvl1.active {
     left: 0;
-    padding-left: 0;
   }
   .hamburger.active .bar:nth-child(2) {
     opacity: 0;
@@ -200,18 +203,19 @@ a {
     -webkit-transform: translateY(-8px) rotate(-45deg);
     transform: translateY(-8px) rotate(-45deg);
   }
-  .lvl1 {
-    padding-top: 0.75em;
-    padding-bottom: 0.75em;
-    /*width: 200px;*/
-    padding-left: 0;
-    background-color:#f1f1fe;
-  }
   /* WIP */
   .lvl1 li {
-    padding-left:1em
+    padding-left: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top:4px;
+    padding-bottom:4px;
   }
 
+  .lvl1 > li:nth-child(even) {
+    background-color: #80ff80;
+  }
+  
   .lvl1 a {
     font-size:1.25em;
   }
