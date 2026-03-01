@@ -4,7 +4,7 @@
   font-family: 'Gowun Dodum';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/gowun-dodum-v12-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('../fonts/gowun-dodum-v12-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 
@@ -14,7 +14,7 @@
   font-family: 'Shadows Into Light';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/shadows-into-light-v22-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('../fonts/shadows-into-light-v22-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 /* mountains-of-christmas-regular - latin */
@@ -23,7 +23,7 @@
   font-family: 'Mountains of Christmas';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/mountains-of-christmas-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('../fonts/mountains-of-christmas-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* mountains-of-christmas-700 - latin */
 @font-face {
@@ -31,7 +31,7 @@
   font-family: 'Mountains of Christmas';
   font-style: normal;
   font-weight: 700;
-  src: url('/fonts/mountains-of-christmas-v24-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('../fonts/mountains-of-christmas-v24-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
 

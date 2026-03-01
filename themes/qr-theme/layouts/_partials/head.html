@@ -1,5 +1,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<!-- preload fonts -->
+
+{{ $font := resources.Get "fonts/mountains-of-christmas-v24-latin-700.woff2" }}
+  <link rel="preload" href="{{ $font.RelPermalink }}" as="font" type="font/woff2" crossorigin>
+
+{{ with resources.Get "fonts/mountains-of-christmas-v24-latin-regular.woff2" }}
+  <link rel="preload" href="{{ .RelPermalink }}" as="font" type="font/woff2" crossorigin>
+{{ end }}
+{{ with resources.Get "fonts/shadows-into-light-v22-latin_latin-ext-regular.woff2" }}
+  <link rel="preload" href="{{ .RelPermalink }}" as="font" type="font/woff2" crossorigin>
+{{ end }}
+{{ with resources.Get "fonts/gowun-dodum-v12-latin_latin-ext-regular.woff2" }}
+  <link rel="preload" href="{{ .RelPermalink }}" as="font" type="font/woff2" crossorigin>
+{{ end }}
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
