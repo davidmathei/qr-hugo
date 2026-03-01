@@ -1,6 +1,47 @@
+/* gowun-dodum-regular - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Gowun Dodum';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/gowun-dodum-v12-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+/* shadows-into-light-regular - latin_latin-ext */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Shadows Into Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/shadows-into-light-v22-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* mountains-of-christmas-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Mountains of Christmas';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/mountains-of-christmas-v24-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* mountains-of-christmas-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Mountains of Christmas';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/mountains-of-christmas-v24-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+
 html, body {
   height: 100vh;
-  font-family: sans-serif;
+  font-family: "Gowun Dodum", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+
   margin: 0;
   padding: 0;
 }
@@ -19,11 +60,21 @@ header {
   margin-bottom: 1rem;
 }
 
+.head-title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
 .navbar {
   display:flex;
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
+  font-family: "Shadows Into Light", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+
+
 }
 
 .hamburger {
@@ -38,11 +89,6 @@ span.bar {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   background-color: #101010;
-}
-
-.head-title{
-  font-size: 1rem;
-  font-weight: bold;
 }
 
 .lvl1 {
@@ -79,7 +125,6 @@ footer {
 header,footer {
   flex-shrink: 0;
   flex-direction: column;
-  background-color: #eee;
 }
 
 .footer-content {
@@ -87,6 +132,9 @@ header,footer {
   flex-direction: row;
   flex-wrap: wrap;
   align-items: stretch;
+
+  background-color: black;
+  color: white;
 }
 
 .copy {
@@ -100,16 +148,6 @@ header,footer {
   margin: 2rem;
 }
 
-.social {
-}
-
-.contact {
-
-}
-
-.bottom-links {
-
-}
 .social, .contact, .bottomlinks {
   padding: 1em;
   margin: 1em;
@@ -121,6 +159,17 @@ a {
   text-decoration: none;
 }
 
+.footer-content a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.bottomlinks a {
+  text-decoration: underline;
+}
+.contact a {
+  text-decoration: underline;
+}
 
 
 .list-container {
@@ -183,7 +232,8 @@ a {
     padding-bottom: 0.75em;
     /*width: 200px;*/
     padding-left: 0;
-
+    font-size: 1.25em;
+    font-weight: bold;
   }
   .hamburger {
     display: block;
@@ -219,7 +269,12 @@ a {
   .lvl1 a {
     font-size:1.25em;
   }
-  
+ .social, .contact, .bottomlinks {
+    padding: 0.25em;
+    margin: 0.25em;
+  }
+
+ 
 }
 
 
