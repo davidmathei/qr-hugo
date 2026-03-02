@@ -73,7 +73,8 @@ header {
   font-family: "Shadows Into Light", sans-serif;
   font-style: normal;
   font-weight: 400;
-
+  max-width: 1000px;
+  margin: 0 auto;
 
 }
 
@@ -111,10 +112,6 @@ span.bar {
   text-decoration: underline;
 }
 
-
-
-
-
 footer {
   margin-top: 1rem;
   display: flex;
@@ -127,14 +124,13 @@ header,footer {
   flex-direction: column;
 }
 
+
 .footer-content {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   align-items: stretch;
 
-  background-color: black;
-  color: white;
 }
 
 .copy {
@@ -145,8 +141,16 @@ header,footer {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-  margin: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+
 }
+
+.page-footer {
+  background-color: #e68a00;
+  color: white;
+}
+
 
 .social, .contact, .bottomlinks {
   padding: 1em;
