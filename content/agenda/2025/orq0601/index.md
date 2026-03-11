@@ -6,12 +6,13 @@ draft = false
 eventstart = 2025-06-01T18:00:00
 eventend = 2025-06-01T20:00:00
 datedesc = '1 de Junho 2025'
+timedesc = '17h'
 publishdate = 2025-05-01T00:00:00
 locality = 'Igreja de São Sebastião (Lagos)'
 etaria = 'M/6'
 admission = '6,-'
 
-
+tags = ['orq']
 +++
 
 
