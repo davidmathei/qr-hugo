@@ -3,5 +3,5 @@ rm -f qr.tgz ;
 HUGO_ENV=production hugo -b https://www.ceusdosul.net/qr/ ; 
 cd public; 
 tar czvhf ../qr.tgz . ; 
-#scp ../qr.tgz alice:~/ ; 
+scp ../qr.tgz alice:~/ ; 
 cd ..

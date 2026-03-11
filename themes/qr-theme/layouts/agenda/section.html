@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ $now := (now.Format "2006-01-01T00:00:00")}}
+<div class="agendalistitem">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <!-- 
+    filter event-dates in future, order by start-date asc
+    allow all tags
+    next section: older events, by start-date desc.
+
+    use different templates for active and inactive templates
+    (bol links etc)
+  -->
+  <h3>Em destaque</h3>
+  {{ range where .Pages ".Params.eventstart" "ge" now}}
+     {{ partial "futureevents" . }}
+  {{ end }}
+
+  <h3>Eventos anteriores</h3>
+  
+  {{ range where .Pages ".Params.eventstart" "le" now}}
+     {{ partial "pastevents" . }}
+  {{ end }}
+
+ </div> 
+{{ end }}
