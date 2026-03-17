@@ -34,20 +34,24 @@ Neste novo ciclo de apresentações, o público é convidado a embarcar numa aut
 T.B.D.
 
 ## FICHA ARTÍSTICA:
-Dir. Musical | Sigiswald Kuijken
-Dir. Artística | Elsa Mathei 
 
+| | |
+| ---- | ---- |
+| Dir. Musical | Sigiswald Kuijken |
+| Dir. Artística | Elsa Mathei | 
+| Formação de Orquestra: | |
+| Vln I |Sigiswald Kuijken e Sofia Grilo |
+| Vln II | Mariña Bouso e Francisco Cymbron |
+| Viola |  Lúcio Studer |
+| Vlc | Ana Raquel Pinheiro |
+| Violone | Marta Vicente |
 
-Formação de Orquestra:
-Vln I |Sigiswald Kuijken e Sofia Grilo
-Vln II | Mariña Bouso e Francisco Cymbron
-Viola |  Lúcio Studer 
-Vlc | Ana Raquel Pinheiro
-Violone | Marta Vicente
+## FICHA TÉCNICA:
 
-FICHA TÉCNICA:
-Design Gráfico | Mónica Catalá
-Comunicação | Beatriz Bernardo
-Produção | Hugo Santos e Alexandre Santos
+| | |
+| ---- | ---- |
+| Design Gráfico | Mónica Catalá |
+| Comunicação | Beatriz Bernardo |
+| Produção | Hugo Santos e Alexandre Santos |
 
 

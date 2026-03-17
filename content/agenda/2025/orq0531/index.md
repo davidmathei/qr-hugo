@@ -5,7 +5,7 @@ draft = false
 
 eventstart = 2025-06-01T18:00:00
 eventend = 2025-06-01T20:00:00
-datedesc = '1 de Junho 2025'
+datedesc = '31 de Maio 2025'
 timedesc = '17h'
 publishdate = 2025-05-01T00:00:00
 locality = 'Igreja de Nossa Senhora da Conceição (Ferragudo)'
@@ -33,20 +33,24 @@ Neste novo ciclo de apresentações, o público é convidado a embarcar numa aut
 T.B.D.
 
 ## FICHA ARTÍSTICA:
-Dir. Musical | Sigiswald Kuijken
-Dir. Artística | Elsa Mathei 
 
+| | |
+| ---- | ---- |
+| Dir. Musical | Sigiswald Kuijken |
+| Dir. Artística | Elsa Mathei | 
+| Formação de Orquestra: | |
+| Vln I |Sigiswald Kuijken e Sofia Grilo |
+| Vln II | Mariña Bouso e Francisco Cymbron |
+| Viola |  Lúcio Studer |
+| Vlc | Ana Raquel Pinheiro |
+| Violone | Marta Vicente |
 
-Formação de Orquestra:
-Vln I |Sigiswald Kuijken e Sofia Grilo
-Vln II | Mariña Bouso e Francisco Cymbron
-Viola |  Lúcio Studer 
-Vlc | Ana Raquel Pinheiro
-Violone | Marta Vicente
+## FICHA TÉCNICA:
 
-FICHA TÉCNICA:
-Design Gráfico | Mónica Catalá
-Comunicação | Beatriz Bernardo
-Produção | Hugo Santos e Alexandre Santos
+| | |
+| ---- | ---- |
+| Design Gráfico | Mónica Catalá |
+| Comunicação | Beatriz Bernardo |
+| Produção | Hugo Santos e Alexandre Santos |
 
 
