@@ -1,10 +1,11 @@
 +++
-title = 'Orquestra Barroca D’Aquém Mar | Handel, Vivaldi e Bach'
-date = 2023-01-01T08:00:00-07:00
+title = 'Händel, Vivaldi e Bach'
+artist = 'Orquestra Barroca D’Aquém Mar'
+date = 2025-04-28T08:00:00-07:00
 draft = false
 
-eventstart = 2025-06-01T18:00:00
-eventend = 2025-06-01T20:00:00
+eventstart = 2025-05-31T18:00:00
+eventend = 2025-05-31T20:00:00
 datedesc = '31 de Maio 2025'
 timedesc = '17h'
 publishdate = 2025-05-01T00:00:00
@@ -28,11 +29,11 @@ oferta cultural, promovendo o acesso à música erudita em territórios muitas v
 Neste novo ciclo de apresentações, o público é convidado a embarcar numa autêntica viagem musical ao coração do Barroco europeu, com a interpretação de obras emblemáticas de compositores como Georg Friedrich Handel, Antonio Vivaldi, Johann Sebastian Bach, Henry Purcell e Georg Philipp Telemann. O concerto conta com a direção musical do maestro belga Sigiswald Kuijken, figura de referência mundial na interpretação barroca, cuja colaboração com a orquestra se tornou já uma tradição marcante. A direção artística fica a cargo de Elsa Mathei, cuja visão tem sido determinante para a consolidação da identidade artística do grupo.
 
 
-## Programa
+### Programa
 
 T.B.D.
 
-## FICHA ARTÍSTICA:
+### FICHA ARTÍSTICA:
 
 | | |
 | ---- | ---- |
@@ -45,7 +46,7 @@ T.B.D.
 | Vlc | Ana Raquel Pinheiro |
 | Violone | Marta Vicente |
 
-## FICHA TÉCNICA:
+### FICHA TÉCNICA:
 
 | | |
 | ---- | ---- |
@@ -53,4 +54,10 @@ T.B.D.
 | Comunicação | Beatriz Bernardo |
 | Produção | Hugo Santos e Alexandre Santos |
 
+
+PROMOTOR: Questão Repetida 
+
+PARCEIROS: Cultura - República Portuguesa, Direção-Geral das Artes  , Município de Lagoa , Município de Lagos  , Junta de Freguesia de Ferragudo, Freguesia da Luz  , União das Freguesias de Bensafrim e Barão S. João , Freguesia de Odiáxere  , Freguesia de São Gonçalo de Lagos  , Região de Turismo do Algarve  , IEFP - Instituto do Emprego e Formação Profissional
+
+MEDIA: Algarve Informativo, Antena 2  , Correio de Lagos e Barlavento  .
 
