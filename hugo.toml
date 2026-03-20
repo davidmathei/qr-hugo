@@ -46,16 +46,16 @@ theme = 'qr-theme'
   [[menus.main]]
     name = 'Criação Artistica'
     parent = 'projetos'
-    pageRef = '/eventos/artistica'
+    pageRef = '/projetos/artistica'
 
   [[menus.main]]
     name = 'Criação Participativa'
     parent = 'projetos'
-    pageRef = '/eventos/participativa'
+    pageRef = '/projetos/participativa'
 
   [[menus.main]]
     name = 'Artes Visuais'
     parent = 'projetos'
-    pageRef = '/eventos/artesvisuais'
+    pageRef = '/projetos/artesvisuais'
 
 

@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $now := (now.Format "2006-01-01T00:00:00")}}
-<div class="agendalistitem">
+<div class="agendalist">
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   <!-- 
@@ -11,15 +11,15 @@
     use different templates for active and inactive templates
     (bol links etc)
   -->
-  <h3>Em destaque</h3>
+  <h2>Em destaque</h2>
   {{ range where .Pages ".Params.eventstart" "ge" now}}
-     {{ partial "futureevents" . }}
+     <div class="agendalistitem">{{ partial "futureevents" . }}</div>
   {{ end }}
 
-  <h3>Eventos anteriores</h3>
+  <h2>Eventos anteriores</h2>
   
-  {{ range where .Pages ".Params.eventstart" "le" now}}
-     {{ partial "pastevents" . }}
+  {{ range where .Pages ".Params.eventstart" "lt" now}}
+     <div class="agendalistitem">{{ partial "pastevents" . }}</div>
   {{ end }}
 
  </div> 
