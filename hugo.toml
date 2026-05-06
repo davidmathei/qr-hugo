@@ -17,45 +17,57 @@ theme = 'qr-theme'
     weight = 10
 
   [[menus.main]]
-    name = 'Equipa'
-    pageRef = '/equipa'
+    name = 'Nos'
+    pageRef = '/nos'
     weight = 20
 
   [[menus.main]]
     name = 'Agenda'
     pageRef = '/agenda'
-    weight = 20
+    weight = 30
 
   [[menus.main]]
-    name = "Orquestra d'aquem Mar"
-    identifier = 'orq'
-    pageRef = '/orquestra'
-    weight = 20
+    name = "Circulação"
+    identifier = 'circ'
+    pageRef = '/circulacao'
+    weight = 40
 
   [[menus.main]]
-    name = "Sons d'aquem Mar"
-    parent = 'orq'
-    pageRef = '/sons'
-    weight = 20
+    name = 'Projectos'
+    identifier = 'projectos'
+    pageRef = '/projectos'
+    weight = 50
 
   [[menus.main]]
-    name = 'Projetos'
-    identifier = 'projetos'
-    pageRef = '/projetos'
+    name = 'Teatro'
+    parent = 'projectos'
+    pageRef = '/projectos/teatro'
+    weight = 110
 
   [[menus.main]]
-    name = 'Criação Artistica'
-    parent = 'projetos'
-    pageRef = '/projetos/artistica'
-
-  [[menus.main]]
-    name = 'Criação Participativa'
-    parent = 'projetos'
-    pageRef = '/projetos/participativa'
+    name = 'Música'
+    parent = 'projectos'
+    pageRef = '/projectos/musica'
+    weight = 120
 
   [[menus.main]]
     name = 'Artes Visuais'
-    parent = 'projetos'
-    pageRef = '/projetos/artesvisuais'
+    parent = 'projectos'
+    pageRef = '/projectos/artesvisuais'
+    weight = 130
+
+  [[menus.main]]
+    name = 'Multidisciplinar'
+    parent = 'projectos'
+    pageRef = '/projectos/multidisciplinar'
+    weight = 140
+  
+  [[menus.main]]
+    name = 'Arte-Social'
+    parent = 'projectos'
+    pageRef = '/projectos/artesocial'
+    weight = 150
+
+
 
 
