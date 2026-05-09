@@ -12,15 +12,19 @@
     (bol links etc)
   -->
   <h2>Em destaque</h2>
+  <ul class="agendalist futureevents">
   {{ range where .Pages ".Params.eventstart" "ge" now}}
-     <div class="agendalistitem">{{ partial "futureevents" . }}</div>
+     <li class="agendalistitem futureevents">{{ partial "futureevents" . }}</li>
   {{ end }}
+  </ul>
 
   <h2>Eventos anteriores</h2>
   
+  <ul class="agendalist pastevents">
   {{ range where .Pages ".Params.eventstart" "lt" now}}
-     <div class="agendalistitem">{{ partial "pastevents" . }}</div>
+     <li class="agendalistitem pastevents">{{ partial "pastevents" . }}</li>
   {{ end }}
+  </ul>
 
  </div> 
 {{ end }}

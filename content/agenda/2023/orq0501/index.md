@@ -10,6 +10,7 @@ datedesc = '01 01 1970'
 timedesc = '18h'
 publishdate = 2024-01-01T00:00:00
 locality = 'Igreja de Estômbar (Lagoa), Idanha-a-nova e Famalicão'
+place = 'Lagoa, Idanha-a-nova, Famalicão'
 etaria = 'M/6'
 admission = '6,-'
 

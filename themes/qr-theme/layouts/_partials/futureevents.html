@@ -1,3 +1,1 @@
-<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }} {{with .Params.artist}}, {{.}}  {{end}}</a></h2>
-<h3>{{.Params.locality}},  {{.Params.datedesc}}</h3>
-    {{ .Summary }}
+<a href="{{ .RelPermalink }}"> {{.Params.datedesc}} {{.Params.place}} {{.LinkTitle}} {{with .Params.artist}}, {{.}}  {{end}} </a>

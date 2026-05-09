@@ -9,6 +9,7 @@ datedesc = '10-11 de Fevereiro 2022'
 timedesc = '18h'
 publishdate = 2022-10-10T00:00:00
 locality = 'Lagoa, Lagos'
+place = 'Lagoa, Lagos'
 etaria = 'M/6'
 admission = '6,-'
 

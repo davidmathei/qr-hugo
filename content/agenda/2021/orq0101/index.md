@@ -10,6 +10,7 @@ datedesc = 'Unknown date'
 timedesc = '18h'
 publishdate = 2020-01-01T00:00:00
 locality = 'Igreja de São Sebastião (Lagos)'
+place = 'Lagos'
 etaria = 'M/6'
 admission = '6,-'
 

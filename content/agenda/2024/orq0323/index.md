@@ -10,6 +10,7 @@ datedesc = '23 de Março 2024'
 timedesc = '18h'
 publishdate = 2024-01-01T00:00:00
 locality = 'Igreja de Porches (Lagoa)'
+place = 'Lagoa'
 etaria = 'M/6'
 admission = '6,-'
 

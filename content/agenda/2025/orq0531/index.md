@@ -10,6 +10,7 @@ datedesc = '31 de Maio 2025'
 timedesc = '17h'
 publishdate = 2025-05-01T00:00:00
 locality = 'Igreja de Nossa Senhora da Conceição (Ferragudo)'
+place = 'Ferragudo'
 etaria = 'M/6'
 admission = '6,-'
 

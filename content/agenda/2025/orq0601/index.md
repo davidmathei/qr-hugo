@@ -10,6 +10,7 @@ datedesc = '1 de Junho 2025'
 timedesc = '17h'
 publishdate = 2025-05-01T00:00:00
 locality = 'Igreja de São Sebastião (Lagos)'
+place = 'Lagos'
 etaria = 'M/6'
 admission = '6,-'
 
