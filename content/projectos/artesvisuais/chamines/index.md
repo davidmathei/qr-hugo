@@ -13,8 +13,7 @@ etaria = 'M/6'
 tags = ['artesvisuais', 'gravura']
 
 +++
-CATEGORIA: GRAVURA 
-
+### CATEGORIA: GRAVURA 
 ### SINOPSE:
 A riqueza formal das chaminés Algarvias é surpreendente, de uma grande variedade que
 apela a novas imagens e representações. Porches compreende uma importante e
@@ -22,7 +21,7 @@ classificada chaminé, entre outras no concelho de Lagoa que conseguiram fazer f
 tempo. Desta forma podemos aproximar o património de forma lúdica e dinâmica a ser visto
 e valorizado de maneira activa pelo público tanto infantil e juvenil como adulto, local ou
 estrangeiro.
-
+<!--more-->
 ### FICHA ARTÍSTICA:
 Ana Bellande
 

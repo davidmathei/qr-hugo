@@ -15,13 +15,10 @@ tags = ['artesparticipativas', 'comunitaria']
 
 CATEGORIA: ARTE COMUNITÁRIA
 
-### DATA: 24 de abril de 2025
-### LOCAL: Centro Cultural de Lagos
-### CLASSIFICAÇÃO ETÁRIA: M/6
 
 ### SINOPSE:
 GATILHO assinala o culminar de um ciclo de três anos de trabalho artístico e comunitário em torno da inclusão e da criação partilhada. O espetáculo é o fecho simbólico de um percurso coletivo que deu nome ao projeto – um processo multidisciplinar enraizado na escuta, na convivência e na transformação social através da arte.
-
+<!--more-->
 
 Em cena, um grupo de habitantes de Lagos – diferentes nas suas histórias, semelhantes no desejo de estar – põe em movimento as perguntas que marcaram o seu encontro. O que nos faz voltar? O que significa estarmos juntos? Como se constrói um “nós” a partir de tantos “eus”? E que mundo, afinal, queremos ajudar a imaginar?
 
@@ -29,6 +26,7 @@ Em cena, um grupo de habitantes de Lagos – diferentes nas suas histórias, sem
 Mais do que responder, GATILHO propõe um espaço onde essas perguntas habitam o corpo, o gesto e a presença. O espetáculo emerge da procura pela escuta mútua, da exploração dos limites e potências de um grupo em constante redefinição. Entre memórias partilhadas, inquietações íntimas e visões de futuro, desenha-se uma poética comum — frágil, corajosa, necessária.
 GATILHO encerra um ciclo de três anos de criação comunitária em Lagos. Em cena, um grupo diverso de participantes transforma perguntas em movimento: o que nos une, o que nos move, que mundo queremos imaginar? Entre histórias de vida, inquietações e desejos de futuro, nasce uma poética comum — frágil, corajosa, necessária. Um grupo encontra-se em cena para ensaiar o futuro — entre perguntas, gestos e afetos, nasce Gatilho.
 
+#### CLASSIFICAÇÃO ETÁRIA: M/6
 
 ### FICHA ARTÍSTICA:
 #### FICHA ARTÍSTICA - PROJETO GATILHO (2022-2025):

@@ -13,16 +13,16 @@ etaria = 'M/6'
 tags = ['artesvisuais', 'foto']
 
 +++
-CATEGORIA: FOTOGRAFIA 
+### CATEGORIA: FOTOGRAFIA 
 
 ### DATA: 
 [2019] I -A Edição: Polaridades | S.Marcos da Serra
 [2020] I -B Edição: Polaridades | Vila do Bispo
 [2020] II Edição: TRECHOS | Lagoa
-[2021 ] III Edição: TRECHOS | Lagos - Barão de S. João - Bensafrim - Praia da Luz
+[2021] III Edição: TRECHOS | Lagos - Barão de S. João - Bensafrim - Praia da Luz
 [2022] IV Edição: 100 anos sobre a Chegada do Comboio a Lagos | Lagos
 
-### LOCAL: SILVES,  VILA DO BISPO, LAGOA E LAGOS  
+<!--more-->
 
 ### I  TRECHOS 2019
 FALTA
@@ -34,7 +34,6 @@ FALTA
 ### II TRECHOS
 FALTA
 
-<!--more-->
 
 ### III TRECHOS
 "É cada dia mais óbvio para mim que só fotografo o que conheço. Os caminhos que

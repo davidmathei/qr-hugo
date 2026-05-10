@@ -12,15 +12,13 @@ locality = 'Unknown'
 tags = ['artistica', 'teatro']
 
 +++
-#### CATEGORIA: PALAVRA, TEATRO DE SOMBRAS E MÚSICA 
-
-
+### CATEGORIA: PALAVRA, TEATRO DE SOMBRAS E MÚSICA 
 ### SINOPSE:
 Gilgamesh é um dos mais antigos épicos registados, datando de 2000 AC.
 Relata as aventuras do herói e como este supera as circunstâncias mais terríveis.
 Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrotar qualquer inimigo em batalha: até mesmo levantar montanhas.
 Quando Gilgamesh, na sua solidão começa a maltratar o povo de Uruk, os deuses decidem intervir enviando um desafio: Enkidu, o homem selvagem. E aqui começam as aventuras!
-
+<!--more-->
 ### FICHA ARTÍSTICA:
 | | |
 | --- | --- |

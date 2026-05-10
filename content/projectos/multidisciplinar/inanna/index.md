@@ -22,6 +22,7 @@ renascimento; sobre poder, injustiça; sobre o que nos torna humanos e sobre o q
 divinos. Esta é a jornada arquetípica que cada indivíduo deve fazer para alcançar a totalidade através
 do confronto com a sua Sombra, a sua Morte e o seu retorno à Vida, desta feita completo e
 totalmente consciente.
+<!--more-->
 Este será um concerto com a narração do poema assegurado por Ana Falé e será ilustrado em tempo
 real por Mónica Catalá, sendo que, entre os momentos de pausa do poema, a música irá permitir
 transições de reflexão.

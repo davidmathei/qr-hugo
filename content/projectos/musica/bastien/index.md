@@ -22,6 +22,7 @@ Bastien und Bastienne é um Singspiel (uma ópera em que se alternam árias, due
 diálogos falados) em um ato com libreto de F. W. Weiskern, J. H. Müller e J. A. Schachtner. Esta foi
 uma das primeiras obras compostas por Wolfgang Amadeus Mozart e é baseada na peça de Jean
 Jacques Rousseau, Le Devin Du Village.
+<!--more-->
 Embora tivesse apenas 12 anos de idade, o pequeno Mozart revelava já um extraordinário domínio
 na área da composição. A peça é extremamente acessível ao público em geral pois caracteriza-se de
 uma grande simplicidade e, no entanto, revela grande coesão melódica.

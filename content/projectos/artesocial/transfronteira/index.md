@@ -12,10 +12,10 @@ locality = 'Unknown'
 tags = ['artistica', 'teatro']
 
 +++
-No info ...
 
 CATEGORIA: Multidisciplinar participativa 
-
+No info ...
+<!--more-->
 PROMOTOR: QUESTÃO REPETIDA, 
 
 PARCEIROS: Município de Lagos, Direção-Geral das Artes, Região de Turismo do Algarve 

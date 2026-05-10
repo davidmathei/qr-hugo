@@ -12,23 +12,13 @@ locality = 'Loulé, Lagoa, Lagos, Faro'
 tags = ['artistica', 'opera']
 
 +++
-#### CATEGORIA:  ÓPERA
-#### CLASSIFICAÇÃO ETÁRIA: M/6
-
-### ESTREIA: 18 de abril de 2024 | Cineteatro Louletano (Loulé)
-
-<!--more-->
-
-#### Circulação:
-* 24 de maio de 2024 | 10h45 Sessão Institucional e 19h00 Sessão Geral | Auditório Carlos do Carmo (Lagoa) 
-* 6 de dezembro de 2024 | 11h00 Sessão Institucional e 19h00 Sessão Geral | Centro Cultural (Lagos)
-* 21 de fevereiro de 2025 | 21h30 Sessão Geral | Teatro das Figuras (Faro) 
-
+### CATEGORIA:  ÓPERA
 ### SINOPSE:
 “O amor é mais invisível que o ódio. Por isso é tão importante. As coisas boas são mais invisíveis, mais difíceis de ver.” A Helena disse isto num ensaio e toda a gente achou bonito, mas depois caiu o silêncio. Que o mundo esteja insensível ao pormenor da beleza, poderá ser verdade… Mas que temos nós, cada um de nós, feito para revelar as coisas mais invisíveis?
 Este é um trabalho de partilha, feito de muitos corpos, de muitas vozes, um espetáculo que pertence a todos, mas que não cabe em ninguém. Assim decidimos, e dentro dele colocamos uma ópera com demasiadas coisas, coisas estas que pareciam tão distintas, tão únicas, mas que, no fim de contas, dizem o mesmo. Por maiores que sejam as opressões, as vitórias e as derrotas, por mais que o nevoeiro dos sonhos nos desvie os sulcos das palmas das mãos noutras direcções, por mais estreito que o oceano pareça na linha do horizonte, todos nós temos, como diria o Miguel, de “vencer o dia”. 
 É aí que nos encontramos, num espaço independente daquilo que pensamos ser as nossas forças ou imperfeições. Afinal, somos feitos de muitos corpos, de muitas vozes, pertencemo-nos uns aos outros e não cabemos em lado nenhum.
-
+<!--more-->
+#### CLASSIFICAÇÃO ETÁRIA: M/6
 ### FICHA ARTÍSTICA:
 | | |
 | --- | --- |

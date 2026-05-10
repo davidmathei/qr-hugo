@@ -3,7 +3,7 @@ baseURL = 'https://example.org/'
 languageCode = 'pt-pt'
 title = 'Questão Repetida'
 theme = 'qr-theme'
-
+contentDir = 'content'
 [params]
   facebook = 'https://facebook.com/questao.repetida'
   instagram = 'https://instagram.com/questao.repetida'

@@ -12,11 +12,12 @@ locality = 'Auditório Carlos do Carmo, Lagoa'
 tags = ['artistica', 'teatro']
 
 +++
-### LOCAL: Auditório Carlos do Carmo, Lagoa
-#### CLASSIFICAÇÃO ETÁRIA: M/6
 ### SINOPSE:
 Diferente-Mente é um espetáculo que reúne com jovens adolescentes e jovens/ adultos com deficiência, as quais põem em causa a sua independência e autonomia perante uma sociedade altamente competitiva. O ser diferente, o pensar diferente são o ponto de partida desta criação artística e pretende demonstrar o quão importante se torna a expressão dramática, o movimento e a música nesta forma
 "diferente-mente" de comunicar.
+<!--more-->
+
+#### CLASSIFICAÇÃO ETÁRIA: M/6
 
 ### FICHA ARTÍSTICA:
 | | | 
