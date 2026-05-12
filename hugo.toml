@@ -4,6 +4,15 @@ languageCode = 'pt-pt'
 title = 'Questão Repetida'
 theme = 'qr-theme'
 contentDir = 'content'
+
+[security]
+  enableInlineShortcodes = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   facebook = 'https://facebook.com/questao.repetida'
   instagram = 'https://instagram.com/questao.repetida'

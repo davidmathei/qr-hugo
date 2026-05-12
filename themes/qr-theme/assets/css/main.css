@@ -216,6 +216,18 @@ a {
   background-color: #ffebcc;
 }
 
+.contentimgfloat {
+  float: right;
+  max-width: 45%;
+}
+
+.contentimg {
+  max-width: 90%;
+}
+
+
+
+
 @media (max-width: 600px) {
   header, footer, .footer-content {
     flex-direction: column;
