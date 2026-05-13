@@ -6,13 +6,16 @@
 {{- $widths := slice "500" "300"  -}}
 {{- $sizes := "(width <= 500px) 300px, 500px"  -}}
 {{- $srcset := slice -}}
-{{- $src := $img1.RelPermalink  -}}
 
 {{- range $widths -}}
    {{- $fname := printf "%v-%vw.%v" $imgroot . $ext -}}
    {{- $f := $.Page.Resources.Get $fname -}}
    {{- $srcset = $srcset | append (printf "%s %sw" $f.RelPermalink .) -}}
 {{- end -}}
+
+{{- $src := index $srcset 0 -}}
+{{- $src := split $src " " -}}
+{{- $src := index $src 0 -}}
 
 <img
   class="contentimgfloat"

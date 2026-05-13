@@ -216,9 +216,8 @@ a {
   background-color: #ffebcc;
 }
 
-.contentimgfloat {
+.contentimgfloat, p:has(img.contentimgfloat) {
   float: right;
-  max-width: 45%;
 }
 
 .contentimg {
