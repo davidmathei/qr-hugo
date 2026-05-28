@@ -21,62 +21,62 @@ contentDir = 'content'
 
 [menus]
   [[menus.main]]
-    name = 'Home'
+    name = 'HOME'
     pageRef = '/'
     weight = 10
 
   [[menus.main]]
-    name = 'Nos'
+    name = 'NÓS'
     pageRef = '/nos'
     weight = 20
 
   [[menus.main]]
-    name = 'Agenda'
+    name = 'AGENDA'
     pageRef = '/agenda'
     weight = 30
 
   [[menus.main]]
-    name = "Circulação"
+    name = "CIRCULAÇÃO"
     identifier = 'circ'
     pageRef = '/circulacao'
     weight = 40
 
   [[menus.main]]
-    name = 'Projectos'
+    name = 'PROJECTOS'
     identifier = 'projectos'
     pageRef = '/projectos'
     weight = 50
 
-  [[menus.main]]
-    name = 'Teatro'
-    parent = 'projectos'
-    pageRef = '/projectos/teatro'
-    weight = 110
-
-  [[menus.main]]
-    name = 'Música'
-    parent = 'projectos'
-    pageRef = '/projectos/musica'
-    weight = 120
-
-  [[menus.main]]
-    name = 'Artes Visuais'
-    parent = 'projectos'
-    pageRef = '/projectos/artesvisuais'
-    weight = 130
-
-  [[menus.main]]
-    name = 'Multidisciplinar'
-    parent = 'projectos'
-    pageRef = '/projectos/multidisciplinar'
-    weight = 140
-  
-  [[menus.main]]
-    name = 'Arte-Social'
-    parent = 'projectos'
-    pageRef = '/projectos/artesocial'
-    weight = 150
-
+#  [[menus.main]]
+#    name = 'TEATRO'
+#    parent = 'projectos'
+#    pageRef = '/projectos/teatro'
+#    weight = 110
+#
+#  [[menus.main]]
+#    name = 'MÚSICA'
+#    parent = 'projectos'
+#    pageRef = '/projectos/musica'
+#    weight = 120
+#
+#  [[menus.main]]
+#    name = 'ARTES VISUAIS'
+#    parent = 'projectos'
+#    pageRef = '/projectos/artesvisuais'
+#    weight = 130
+#
+#  [[menus.main]]
+#    name = 'MULTIDISCIPLINAR'
+#    parent = 'projectos'
+#    pageRef = '/projectos/multidisciplinar'
+#    weight = 140
+#  
+#  [[menus.main]]
+#    name = 'ARTE-SOCIAL'
+#    parent = 'projectos'
+#    pageRef = '/projectos/artesocial'
+#    weight = 150
+#
 
 
 

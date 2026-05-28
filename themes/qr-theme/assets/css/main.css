@@ -34,6 +34,30 @@
   src: url('../fonts/mountains-of-christmas-v24-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/Montserrat-Black.woff2') format('woff2');
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: normal;
+  src: url('../fonts/Montserrat-BlackItalic.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/Montserrat-Bold.woff2') format('woff2');
+}
+
+
 
 
 html, body {
@@ -69,10 +93,10 @@ header {
 
 .navbar {
   display:flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   padding: 1rem 2rem;
-  font-family: "Shadows Into Light", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 400;
   max-width: 900px;
@@ -98,7 +122,8 @@ span.bar {
   display: flex;
   list-style: none;
   justify-content: space-between;
-  align-items: center;
+  align-items: bottom;
+  align-content: bottom;
   gap: 1.5rem;
 }
 
@@ -108,11 +133,20 @@ span.bar {
 
 .lvl1 a {
   text-decoration: none;
+  color: black;
 }
 
 .lvl1 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  color: #888;
 }
+
+.lvl1 a.active {
+  text-decoration: underline;
+  color: #e85a22;
+  text-underline-offset: 18px;
+}
+
 
 footer {
   margin-top: 1rem;
@@ -234,6 +268,10 @@ a {
 }
 
 @media only screen and (max-width: 600px){
+  .navbar {
+    align-items:flex-start;
+    justify-content: space-between;
+  }
   .lvl1 {
     position:fixed;
     left: -100%;
@@ -242,8 +280,8 @@ a {
     width: 100%;
     border-radius: 10px;
     transition: 0.3s;
+    background-color:white;
     opacity: 1;
-    background-color: #b3ffb3;
     box-shadow: 0 10px 27px rgba(0, 0, 0, 0.5);
     align-items: stretch;
     justify-content: center;
@@ -261,6 +299,9 @@ a {
   }
   .lvl1.active {
     left: 0;
+  }
+  .lvl1 a.active {
+    text-decoration: none;
   }
   .hamburger.active .bar:nth-child(2) {
     opacity: 0;
@@ -283,7 +324,7 @@ a {
   }
 
   .lvl1 > li:nth-child(even) {
-    background-color: #80ff80;
+    background-color: #fcfcfc;
   }
   
   .lvl1 a {

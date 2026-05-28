@@ -13,12 +13,12 @@ Renders a menu for the given menu ID.
 {{- with index site.Menus $menuID }}
   <nav class="navbar">
     <div class="logo">
-      {{ with resources.Get "images/logo-m-qr.png" }}
+      {{ with resources.Get "images/logo-orig-150.png" }}
         <!-- turn into "home" link -->
-        <img id="logo" src="{{ .RelPermalink }}" alt="QR"/>
+        <a class="logolink" href="{{$page.Site.Home.RelPermalink}}"><img id="logo" src="{{ .RelPermalink }}" alt="QR"/></a>
       {{ end }}
     </div>
-    <div class="head-title">{{ site.Title }}</div>
+    <!--<div class="head-title">{{ site.Title }}</div>-->
     <ul class="lvl1">
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
     </ul>
