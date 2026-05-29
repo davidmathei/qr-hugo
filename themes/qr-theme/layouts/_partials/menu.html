@@ -14,8 +14,14 @@ Renders a menu for the given menu ID.
   <nav class="navbar">
     <div class="logo">
       {{ with resources.Get "images/logo-orig-150.png" }}
-        <!-- turn into "home" link -->
-        <a class="logolink" href="{{$page.Site.Home.RelPermalink}}"><img id="logo" src="{{ .RelPermalink }}" alt="QR"/></a>
+        <a class="logolink" href="{{$page.Site.Home.RelPermalink}}">
+          <img id="logo" 
+            srcset='{{.RelPermalink}} 150w, {{- with resources.Get "images/logo-orig-100.png" -}}{{- .RelPermalink -}}{{- end -}} 100w'
+            sizes="(width <= 600px ) 100px, 150px"
+            src="{{ .RelPermalink }}" 
+            alt="QR"
+          />
+        </a>
       {{ end }}
     </div>
     <!--<div class="head-title">{{ site.Title }}</div>-->
