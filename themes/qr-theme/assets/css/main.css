@@ -200,6 +200,12 @@ span.bar {
   color: #e85a22;
   text-underline-offset: 18px;
 }
+.lvl1 a.ancestor {
+  text-decoration: underline;
+  color: #e85a22;
+  text-underline-offset: 18px;
+}
+
 
 
 footer {
@@ -357,6 +363,10 @@ a {
   .lvl1 a.active {
     text-decoration: none;
   }
+  .lvl1 a.ancestor {
+    text-decoration: none;
+  }
+
   .hamburger.active .bar:nth-child(2) {
     opacity: 0;
   }
