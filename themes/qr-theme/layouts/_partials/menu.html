@@ -16,7 +16,7 @@ Renders a menu for the given menu ID.
       {{ with resources.Get "images/logo-orig-150.png" }}
         <a class="logolink" href="{{$page.Site.Home.RelPermalink}}">
           <img id="logo" 
-            srcset='{{.RelPermalink}} 150w, {{- with resources.Get "images/logo-orig-100.png" -}}{{- .RelPermalink -}}{{- end -}} 100w'
+            srcset='{{.RelPermalink}} 150w, {{- with resources.Get "images/logo-100.png" -}}{{- .RelPermalink -}}{{- end -}} 100w'
             sizes="(width <= 600px ) 100px, 150px"
             src="{{ .RelPermalink }}" 
             alt="QR"

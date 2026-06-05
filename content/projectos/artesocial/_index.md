@@ -5,3 +5,4 @@ draft = false
 weight = 50
 +++
 
+Arte social overview page, this text is also shown on the "projectos" page.

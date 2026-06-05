@@ -48,6 +48,15 @@
 {{ with resources.Get "fonts/Montserrat-Thin.woff2" }}
   <link rel="preload" href="{{ .RelPermalink }}" as="font" type="font/woff2" crossorigin>
 {{ end }}
+{{ with resources.Get "fonts/Geometr212_BkCn_BT_Book.woff2" }}
+<link rel="preload" href="{{ .RelPermalink }}" as="font" type="font/woff2" crossorigin>
+{{ end }}
+{{ with resources.Get "fonts/Geometr212_BkCn_BT_Heavy.woff2" }}
+<link rel="preload" href="{{ .RelPermalink }}" as="font" type="font/woff2" crossorigin>
+{{ end }}
+
+
+
 
 
 
