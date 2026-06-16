@@ -7,6 +7,7 @@ draft = false
 eventstart = 2024-03-24T18:00:00
 eventend = 2024-03-24T20:00:00
 datedesc = '24 de Março 2024'
+shortdatedesc="24"
 timedesc = '18h'
 publishdate = 2024-01-01T00:00:00
 locality = 'Igreja de São Sebastião (Lagos)'

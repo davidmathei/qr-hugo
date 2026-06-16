@@ -219,26 +219,63 @@ a {
    max-width: 200px;
 }
 
-.agendalist .agendalistitem {
-  margin-top: 0.5em;
+
+.agendalist h2 {
+  font-size: 0.7em;
+  margin-bottom:2.5em;
 }
 
-.agendalistitem .date {
-  font-weight:bold;
+ul.agendalist {
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
 }
 
-.agendalistitem .place {
-  font-weight:bold;
+ul.agendalist .year {
+  color: #e85a22;
+  margin-left: 8em;
+  margin-bottom: 0.3em;
+  margin-top: 1em;
+}
+
+ul.agendalist .month {
+  margin-bottom: 1em;
+  margin-top: 1.5em;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+ul.agendalistitem .date {
+  font-weight: bold;
+}
+
+.agendalistitem span {
+  display: inline-block;
+}
+
+.agendalistitem .sep {
+  font-size: 0.7em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 .agendalistitem .title {
-  font-style:italic;
+  font-size: 0.7em;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.agendalistitem .place {
+  font-size: 0.7em;
+  font-weight: normal;
+  text-transform: uppercase;
 }
 
 .agendalistitem .artist {
-  font-style:italic;
+  font-size: 0.6em;
+  font-weight: normal;
+  text-transform: uppercase;
 }
-
 
 
 .contentimgfloat, p:has(img.contentimgfloat) {

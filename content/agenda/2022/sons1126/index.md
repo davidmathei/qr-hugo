@@ -5,10 +5,10 @@ draft = false
 
 eventstart = 2022-11-26T18:00:00
 eventend = 2022-12-09T20:00:00
-datedesc = '10-11 de Fevereiro 2022'
+datedesc = '26.11 - 9.12  2022'
+shortdatedesc = '26'
 timedesc = '18h'
 publishdate = 2022-10-10T00:00:00
-locality = 'Lagoa, Lagos'
 place = 'Lagoa, Lagos'
 etaria = 'M/6'
 admission = '6,-'

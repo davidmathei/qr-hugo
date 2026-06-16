@@ -6,7 +6,8 @@ draft = false
 
 eventstart = 2021-01-01T18:00:00
 eventend = 2021-01-01T20:00:00
-datedesc = 'Unknown date'
+datedesc = '2021 what?'
+shortdatedesc = '1'
 timedesc = '18h'
 publishdate = 2020-01-01T00:00:00
 locality = 'Igreja de São Sebastião (Lagos)'

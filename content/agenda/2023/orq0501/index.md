@@ -6,7 +6,8 @@ draft = false
 
 eventstart = 2023-05-01T18:00:00
 eventend = 2024-05-01T20:00:00
-datedesc = '01 01 1970'
+datedesc = '1 de Maio 2023'
+shortdatedesc = "1"
 timedesc = '18h'
 publishdate = 2024-01-01T00:00:00
 locality = 'Igreja de Estômbar (Lagoa), Idanha-a-nova e Famalicão'

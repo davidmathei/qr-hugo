@@ -7,6 +7,7 @@ draft = false
 eventstart = 2025-05-31T18:00:00
 eventend = 2025-05-31T20:00:00
 datedesc = '31 de Maio 2025'
+shortdatedesc ="31"
 timedesc = '17h'
 publishdate = 2025-05-01T00:00:00
 locality = 'Igreja de Nossa Senhora da Conceição (Ferragudo)'

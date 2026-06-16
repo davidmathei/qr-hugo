@@ -7,6 +7,7 @@ draft = false
 eventstart = 2024-02-09T18:00:00
 eventend = 2024-02-09T20:00:00
 datedesc = '9 de Fevereiro 2024'
+shortdatedesc = "9"
 timedesc = '18h'
 publishdate = 2024-01-01T00:00:00
 locality = 'Centro Cultural de Lagos'

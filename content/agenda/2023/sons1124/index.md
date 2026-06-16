@@ -6,6 +6,7 @@ draft = false
 eventstart = 2023-11-24T18:00:00
 eventend = 2023-12-17T20:00:00
 datedesc = '24 Nov a 17 dez 2023'
+shortdatedesc ="24"
 timedesc = '18h'
 publishdate = 2023-10-24T00:00:00
 locality = 'Lagoa, Lagos'

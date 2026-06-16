@@ -6,6 +6,7 @@ draft = false
 eventstart = 2024-12-08T18:00:00
 eventend = 2024-12-15T20:00:00
 datedesc = '8, 14 e 15 dez 2024'
+shortdatedesc = "8, 14, 15"
 timedesc = '18h'
 publishdate = 2024-11-08T00:00:00
 locality = 'Lagoa, Lagos'

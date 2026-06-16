@@ -7,6 +7,7 @@ draft = false
 eventstart = 2025-04-06T18:00:00
 eventend = 2025-04-06T20:00:00
 datedesc = '6 de Abril 2025'
+shortdatedesc ="6"
 timedesc = '18h'
 publishdate = 2025-02-01T00:00:00
 locality = 'Igreja de São Sebastião (Lagos)'
