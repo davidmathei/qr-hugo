@@ -1,8 +1,9 @@
 {{ define "main" }}
 {{ $now := (now.Format "2006-01-01T00:00:00")}}
 {{ $mnames := slice "" "JAN" "FEV" "MAR" "ABR" "MAIO" "JUN" "JUL" "AGO" "SEP" "OUT" "NOV" "DEZ"}}
+
+<h1 class="pagetitle">{{ .Title }}</h1>
 <div class="agendalist">
-  <h1>{{ .Title }}</h1>
   {{ .Content }}
   <!-- 
     filter event-dates in future, order by start-date asc
