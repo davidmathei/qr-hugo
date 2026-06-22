@@ -1,4 +1,1 @@
-<a href="{{ .RelPermalink }}"><span class="date">{{.Params.shortdatedesc}}</span>
-                              {{with .Params.place}}<span class="sep">|</span><span class="place">{{.}}</span>{{end}}
-                              {{with .LinkTitle}}<span class="sep">|</span><span class="title">{{.}}</span>{{end}}
-                              {{with .Params.artist}}<span class="sep">|</span><span class="artist">{{.}}</span>{{end}}</a>
+<a href="{{ .RelPermalink }}"><span class="date">{{.Params.shortdatedesc}}</span>{{with .Params.place}}<span class="sep">|</span><span class="place">{{.}}</span>{{end}}{{with .LinkTitle}}<span class="sep">|</span><span class="title">{{.}}</span>{{end}}{{with .Params.artist}}<span class="sep">|</span><span class="artist">{{.}}</span>{{end}}</a>

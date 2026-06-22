@@ -245,6 +245,10 @@ ul.agendalist .month {
   font-size: 0.9em;
 }
 
+ul.agendalist > * {
+  letter-spacing: 0.075em;
+}
+
 ul.agendalistitem .date {
   font-weight: bold;
 }
@@ -260,20 +264,19 @@ ul.agendalistitem .date {
 }
 
 .agendalistitem .title {
+  font-weight: bold;
   font-size: 0.7em;
-  font-weight: normal;
   text-transform: uppercase;
 }
 
 .agendalistitem .place {
+  font-weight: bold;
   font-size: 0.7em;
-  font-weight: normal;
   text-transform: uppercase;
 }
 
 .agendalistitem .artist {
   font-size: 0.6em;
-  font-weight: normal;
   text-transform: uppercase;
 }
 
