@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<h1 class="pagetitle">{{ .Title }}</h1>
+<div class="boxlist">
+  {{ .Content }}
+  {{ range .Pages }}
+     {{.Title}}<br/>
+  {{ end }}
+
+ </div> 
+{{ end }}
