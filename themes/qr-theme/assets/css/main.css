@@ -47,6 +47,8 @@ html, body {
   flex-wrap: wrap;
   padding-left: 1em;
   padding-right: 1em;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 header {
@@ -69,13 +71,9 @@ header {
   display:flex;
   justify-content: flex-start;
   align-items: center;
-  padding: 1rem 2rem;
   font-family: "Geometr212", sans-serif;
   font-style: normal;
   font-weight: 700;
-
-  max-width: 900px;
-  margin: 0 auto;
 
 }
 
@@ -136,6 +134,12 @@ footer {
   align-items: stretch;
 }
 
+.page-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
 header,footer {
   flex-shrink: 0;
   flex-direction: column;
@@ -158,14 +162,9 @@ header,footer {
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-  max-width: 900px;
-  margin: 0 auto;
+  padding-left:0.6em;
 }
 
-.page-footer {
-  background-color: #e68a00;
-  color: white;
-}
 
 
 .social, .contact, .bottomlinks {
@@ -180,7 +179,6 @@ a {
 }
 
 .footer-content a {
-  color: #ffffff;
   text-decoration: none;
 }
 
@@ -307,8 +305,10 @@ ul.agendalistitem .date {
 
 @media only screen and (max-width: 600px){
   .navbar {
+    flex-direction: row;
     align-items:flex-start;
     justify-content: space-between;
+    width:100%;
   }
   .lvl1 {
     position:fixed;
@@ -332,6 +332,7 @@ ul.agendalistitem .date {
     font-weight: bold;
   }
   .hamburger {
+    margin: 1em;
     display: block;
     cursor: pointer;
   }
