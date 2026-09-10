@@ -41,6 +41,10 @@ html, body {
   box-sizing: border-box;
 }
 
+td {
+  vertical-align: top;
+}
+
 .page-wrapper {
   display: flex;
   flex-direction: column;
