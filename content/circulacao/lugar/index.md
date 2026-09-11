@@ -2,6 +2,8 @@
 title = 'Lugar'
 date = 2023-01-01T08:00:00-07:00
 draft = false
+mainimage = "logolugar"
+weight = 20
 +++
 Lugar é um projecto de criação multidisciplinar que cruza música, fotografia, ilustração e vídeo, pretendendo cruzar épocas, pessoas e vivências num Lugar comum mas remoto. 
 

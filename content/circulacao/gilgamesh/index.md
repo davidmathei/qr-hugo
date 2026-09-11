@@ -2,6 +2,8 @@
 title = 'Gilgamesh'
 date = 2023-01-01T08:00:00-07:00
 draft = false
+mainimage = "logogilgamesh"
+weight = 10
 +++
 
 Nesta adaptação d’A Epopeia de Gilgamesh - um dos mais antigos épicos registados, datando de cerca de 2000 AC - , a palavra falada e a música narram a história do maior herói sumério através das apaixonantes marionetas de sombras, num espectáculo sobre a bondade e a amizade, contando as aventuras de um herói e seu sucesso em superar as circunstâncias mais terríveis. 

@@ -1,0 +1,24 @@
+{{ define "main" }}
+<h2>{{.Title}}</h2>
+<div class="boxlist"><!-- size dependent grid? -->
+  {{ range .Pages }}
+     <div class="overviewbox">
+       <a class="boxtitle" href="{{.RelPermalink}}">{{.Title}}</a>
+       {{ $page := .}}
+       {{ $imgnames := slice}}
+       {{ $subpage := (index $page.Pages 0)}}
+       {{ if $subpage }}
+         {{- $imgnames = $subpage.Resources.Match "logo*" -}}
+       {{ else }}
+         {{- $imgnames = $page.Resources.Match "logo*" -}}
+       {{ end }}
+       {{- $src := (index $imgnames 0) -}}
+           <a href="{{$page.RelPermalink}}" class="boximg"><img
+             class="boximg"
+             src="{{ $src.RelPermalink }}"
+         /></a>
+     </div>
+  {{ end }}
+
+ </div> 
+{{ end }}

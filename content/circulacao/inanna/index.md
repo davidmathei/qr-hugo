@@ -2,6 +2,8 @@
 title = 'Inanna'
 date = 2023-01-01T08:00:00-07:00
 draft = false
+mainimage = "logoinanna"
+weight = 50
 +++
 
 O poema sumério, “A Descida de Inanna ao Submundo” (c. 3500 - 1600 AC) narra a jornada de Inanna, - Rainha do Céu e da Terra -, ao Submundo para visitar e desafiar o poder de sua irmã recentemente viúva, Ereshkigal, a Rainha dos Mortos.  

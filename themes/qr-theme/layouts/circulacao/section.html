@@ -1,10 +1,21 @@
 {{ define "main" }}
-
-<h1 class="pagetitle">{{ .Title }}</h1>
-<div class="boxlist">
-  {{ .Content }}
+<div class="boxlist"><!-- size dependent grid? -->
   {{ range .Pages }}
-     <a href="{{.RelPermalink}}">{{.Title}}</a><br/>
+     <div class="overviewbox">
+       <a class="boxtitle" href="{{.RelPermalink}}">{{.Title}}</a>
+       {{ $page := .}}
+       {{ with .Params.mainimage }}
+         {{- $imgroot := .  -}}
+         {{- $matchfilter := $imgroot | printf "%s*" -}}
+         {{- $imgnames := $page.Resources.Match $matchfilter -}}
+         {{- $src := (index $imgnames 0) -}}
+
+         <a href="{{$page.RelPermalink}}" class="boximg"><img
+           class="boximg"
+           src="{{ $src.RelPermalink }}"
+         /></a>
+         {{end}}
+     </div>
   {{ end }}
 
  </div> 
