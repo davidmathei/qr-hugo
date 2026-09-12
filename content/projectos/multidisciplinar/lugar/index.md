@@ -3,11 +3,7 @@ title = "Lugar"
 date = 2023-03-24T08:00:00-07:00
 draft = false
 
-eventstart = 2023-04-24T20:00:00
-eventend = 2023-04-24T22:00:00
-datedesc = 'Unknown'
-
-publishdate = 2023-03-10T00:00:00
+ublishdate = 2023-03-10T00:00:00
 locality = 'Auditório Carlos do Carmo, Lagoa'
 tags = ['artistica', 'teatro' , 'musica' , 'palavra']
 
@@ -28,6 +24,7 @@ Sobre o período do domínio muçulmano na Península Ibérica contam-se cerca d
 |Fotografia | Jorge Marques|
 |Animação | Tiago Ferreira |
 |Desenho de Luz | Oxímoro|
+|Músicos |Orquestra Barroca  D’Aquém Mar|
 
 PROMOTOR: QUESTÃO REPETIDA E ARTIS XXI
 

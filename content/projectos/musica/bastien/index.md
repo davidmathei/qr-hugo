@@ -1,5 +1,5 @@
 +++
-title = "Bastien e Bastienne, W.A. Mozart"
+title = "Bastien e Bastienne, Mozart"
 date = 2025-03-24T08:00:00-07:00
 draft = false
 

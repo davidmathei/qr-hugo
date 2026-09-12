@@ -33,4 +33,13 @@ viola da Gamba e do Cravo. A Direcção Musical ficará a cargo de Elsa Mathei.
 O projecto Inanna, nesta criação multidisciplinar - palavra, ilustração, música -, pretende enaltecer a
 memória, a relação divina dos lugares e da força que o passado ocupa nas nossas rotinas de vida.
 
+#### Equipa Artística
+| | |
+| -- | -- |
+|Palavra| Ana Falé|
+|Ilustração| Mónica Catalá|
+|Violino Barroco| Denys Stetsenko|
+|Cravo| Elsa Mathei|
+|Viola da Gamba| Ana Sousa|
+|Composição| João Pacheco e Pedro Louzeiro|
 
