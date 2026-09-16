@@ -11,5 +11,6 @@
        <a href="{{ relref . "/privacy" }}" title="Privacidade">Privacidade</a>
     </div>
   </div>  
-  <div class="footerbg">&nbsp;</div>
+  {{$foot := resources.Get "images/footer.jpg"}}
+  <div class="footerbg" style="background-image: url('{{$foot.RelPermalink}}'); background-position: right center;">&nbsp;</div>
   <div class="copy">&copy; {{ now.Format "2006" }} {{ .Site.Title }}</div>
