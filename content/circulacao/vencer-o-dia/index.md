@@ -4,6 +4,7 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 mainimage = "logovencer"
 weight = 60
+sub = "opera"
 +++
 _“O amor é mais invisível que o ódio. Por isso é tão importante.  
 As coisas boas são mais invisíveis, mais difíceis de ver.”_ 

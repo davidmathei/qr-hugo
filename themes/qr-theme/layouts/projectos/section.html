@@ -10,6 +10,7 @@
        {{ if $subpage }}
          {{- $imgnames = $subpage.Resources.Match "logo*" -}}
        {{ else }}
+         <span class="boxsub">{{with $page.Params.sub}}{{.}}{{end}}&nbsp;</span>
          {{- $imgnames = $page.Resources.Match "logo*" -}}
        {{ end }}
        {{- $src := (index $imgnames 0) -}}

@@ -10,7 +10,7 @@ datedesc = 'Unknown'
 publishdate = 2025-03-10T00:00:00
 locality = 'Unknown'
 tags = ['artistica', 'opera']
-
+sub = "opera"
 +++
 #### CATEGORIA: Ópera
 ### SINOPSE:

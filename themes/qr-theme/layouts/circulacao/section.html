@@ -3,6 +3,7 @@
   {{ range .Pages }}
      <div class="overviewbox">
        <a class="boxtitle" href="{{.RelPermalink}}">{{.Title}}</a>
+       <span class="boxsub">{{with .Params.sub}}{{.}}{{end}}&nbsp;</span>
        {{ $page := .}}
        {{ with .Params.mainimage }}
          {{- $imgroot := .  -}}
