@@ -1,3 +1,4 @@
+// HAMBURGER
 function setupHamburger() {
   const hamburger = document.querySelector(".hamburger");
   const navMenu = document.querySelector(".lvl1");
@@ -17,7 +18,7 @@ function setupHamburger() {
   }
 };
 
-
+// SPAMLINKS
 function fixSpamLinks() {
   var addressCleaner = function (){
       this.href = this.href.split("?")[0].replace("notspam", "");
@@ -33,5 +34,28 @@ function fixSpamLinks() {
   }
 };
 
+
+// YT,Vimeo,Soundcloud
+
+
+function accessAllVideos() {
+  if(!sessionStorage.getItem("tp_consent")) {
+    return;
+  }
+  // iterate over items on page
+  // remove overlay(s)
+
+  // insert type dependent iframe (or set the source and display=block)
+
+}
+
+// this in the overlay onClick handler
+function onConsent(){
+  sessionStorage.setItem("tp_consent","1");
+  accessAllVideos();
+}
+
+
 setupHamburger();
 fixSpamLinks();
+accessAllVideos();

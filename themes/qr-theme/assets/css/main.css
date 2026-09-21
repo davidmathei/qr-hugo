@@ -1,12 +1,3 @@
-/* gowun-dodum-regular - latin_latin-ext */
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Gowun Dodum';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/gowun-dodum-v12-latin_latin-ext-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-
 @font-face {
   font-display: swap;
   font-family: 'Geometr212';
@@ -22,17 +13,11 @@
   src: url('../fonts/Geometr212_BkCn_BT_Heavy.woff2') format('woff2');
 }
 
-
-
 html, body {
   height: 100vh;
-  /*font-family: "Gowun Dodum", sans-serif;
-  font-family: "Montserrat", sans-serif;*/
   font-family: "Geometr212", sans-serif;
 
   font-style: normal;
-  /*font-weight: 400;*/
-
   margin: 0;
   padding: 0;
 }
@@ -216,20 +201,6 @@ a {
   margin: 1em;
 }
 
-.summary > img {
-  float: left;
-  margin-right: 1em;
-}
-
-.summary > a {
-  font-size: 1.5em;
-  border-radius: 0.25em;
-  padding-left:1em;
-  padding-right:1em;
-  text-align:justify;
-
-}
-
 .maybefloater {
    float: right;
    max-width: 200px;
@@ -299,7 +270,13 @@ ul.agendalistitem .date {
 
 .contentimgfloat, p:has(img.contentimgfloat) {
   float: right;
+  margin: 0.3em;
 }
+
+p:has(img.contentimgfloat) {
+  display: inline;
+}
+
 
 .contentimg {
   max-width: 90%;
