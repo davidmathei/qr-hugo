@@ -34,28 +34,27 @@ function fixSpamLinks() {
   }
 };
 
-
-// YT,Vimeo,Soundcloud
-
-
 function accessAllVideos() {
-  if(!sessionStorage.getItem("tp_consent")) {
-    return;
+  const nodes = document.getElementsByClassName("videoblock");
+  for (divel of nodes) {
+    id = divel.getAttribute('data');
+    source = divel.getAttribute('source');
+    if(sessionStorage.getItem("tp_consent_" + id)) {
+      iframe = divel.getElementsByTagName('iframe')[0];
+      overlay = divel.getElementsByTagName('h5')[0];
+      iframe.style['display'] = 'block';
+      overlay.style['display'] = 'none';
+      iframe.setAttribute('src',source);
+    }
   }
-  // iterate over items on page
-  // remove overlay(s)
+};
 
-  // insert type dependent iframe (or set the source and display=block)
-
-}
-
-// this in the overlay onClick handler
-function onConsent(){
-  sessionStorage.setItem("tp_consent","1");
+function onConsent(id){
+  sessionStorage.setItem("tp_consent_" + id, id);
   accessAllVideos();
-}
+};
 
 
-setupHamburger();
 fixSpamLinks();
+setupHamburger();
 accessAllVideos();

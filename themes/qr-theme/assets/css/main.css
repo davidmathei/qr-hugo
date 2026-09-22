@@ -316,6 +316,31 @@ img.boximg {
   font-style: italic;
 }
 
+.videoblock {
+  margin-top: 1em;
+  background-color: #eee;
+}
+
+.ytframe, .vimeoframe {
+  width: 624px;
+  height: 351px;
+}
+
+
+.scframe {
+  width: 624px;
+  height: 166px;
+}
+
+
+.consentheader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left:2em;
+}
+
+
 @media (max-width: 600px) {
   header, footer, .footer-content {
     flex-direction: column;
@@ -323,6 +348,17 @@ img.boximg {
 }
 
 @media only screen and (max-width: 600px){
+  .ytframe, .vimeoframe {
+    width: 336px;
+    height: 189px;
+  }
+  .scframe {
+    width: 336px;
+    height: 166px;
+  }
+
+
+
   .navbar {
     flex-direction: row;
     align-items:flex-start;

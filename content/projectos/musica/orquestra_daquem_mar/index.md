@@ -15,4 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac feugiat risus
 
 Etiam nec augue id felis auctor aliquet. Morbi non lorem ac risus lobortis cursus. Nunc quis leo vel risus lobortis lacinia. Cras iaculis semper erat. Curabitur orci ante, venenatis nec nisl in, suscipit auctor nibh. Nunc pretium, velit id rhoncus imperdiet, orci tellus ornare lacus, ac efficitur elit ante nec metus. Nam facilisis risus sit amet turpis bibendum, eu iaculis enim tristique. Aliquam ac tellus tortor. Aliquam faucibus semper bibendum. Nunc lobortis rhoncus iaculis. Aliquam volutpat leo ligula, vel dictum velit mollis ut. Cras sed mi ullamcorper, finibus orci eget, malesuada nunc. Fusce tempor elementum ante at pellentesque.
 
+{{% yt "JfoL8N35R7M" %}}
 
+{{% vimeo "100827799?h=3eff917a04" %}}
+
+{{% sc "2217428876" %}}
