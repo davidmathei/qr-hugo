@@ -12,12 +12,12 @@ Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrota
 
 #### Equipa Artística
 | | |
-| -- | -- |
-|Ideia Original,  Dir. Artística| Ana Falé|
+| --- | --- |
+|Ideia Original,  Dir. Artística, Narração| Ana Falé|
 |Dir. Musical| Elsa Santos Mathei  |
-|Marionetista| Jorge Soares|
-|Narração| Ana Falé|
-|Ensemble Armilar| |
+|Marionetas | Jorge Soares |
+| | |
+|*Ensemble Armilar*| |
 |Flauta Transversal| Rute Gomes|
 |Harpa| Inês Cavalheiro|
 |Trompa| Armando Martins|

@@ -22,10 +22,11 @@ Quando Gilgamesh, na sua solidão começa a maltratar o povo de Uruk, os deuses 
 ### FICHA ARTÍSTICA:
 | | |
 | --- | --- |
-|Ideia Original,  Dir. Artística| Ana Falé|
+|Ideia Original,  Dir. Artística, Narração| Ana Falé|
 |Dir. Musical| Elsa Santos Mathei  |
 |Marionetas | Jorge Soares |
-|Ensemble Armilar| |
+| | |
+|*Ensemble Armilar*| |
 |Flauta Transversal| Rute Gomes|
 |Harpa| Inês Cavalheiro|
 |Trompa| Armando Martins|
