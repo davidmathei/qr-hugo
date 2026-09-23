@@ -12,13 +12,18 @@ locality = 'Unknown'
 tags = ['artistica', 'teatro']
 
 +++
+{{% rimg "gil6" %}}
 ### CATEGORIA: PALAVRA, TEATRO DE SOMBRAS E MÚSICA 
 ### SINOPSE:
-Gilgamesh é um dos mais antigos épicos registados, datando de 2000 AC.
-Relata as aventuras do herói e como este supera as circunstâncias mais terríveis.
-Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrotar qualquer inimigo em batalha: até mesmo levantar montanhas.
-Quando Gilgamesh, na sua solidão começa a maltratar o povo de Uruk, os deuses decidem intervir enviando um desafio: Enkidu, o homem selvagem. E aqui começam as aventuras!
-<!--more-->
+Nesta adaptação d’A Epopeia de Gilgamesh - um dos mais antigos épicos registados, datando de cerca de 2000 AC - , 
+a palavra falada e a música narram a história do maior herói sumério através das apaixonantes marionetas de sombras, 
+num espectáculo sobre a bondade e a amizade, contando as aventuras de um herói e seu sucesso em superar as circunstâncias mais terríveis. 
+
+{{% rfimg "gil2" %}} Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrotar qualquer inimigo em batalha e até mesmo levantar montanhas. 
+Quando Gilgamesh, na sua solidão e isolamento, começa a maltratar o povo de Uruk, os deuses decidem intervir enviando um desafio: 
+Enkidu, o homem selvagem. Enkidu e Gilgamesh lutam, mas sendo que nenhum pode derrotar o outro, acabam eventualmente os melhores amigos. 
+E aqui começam as aventuras!
+
 ### FICHA ARTÍSTICA:
 | | |
 | --- | --- |
@@ -34,7 +39,7 @@ Quando Gilgamesh, na sua solidão começa a maltratar o povo de Uruk, os deuses 
 |Percussão| Tiago Pires|
 |Compositor| João Pacheco|
 
-
+{{% rimg "gil5" %}}
 
 PROMOTOR: QUESTÃO REPETIDA E ARTIS XXI
 

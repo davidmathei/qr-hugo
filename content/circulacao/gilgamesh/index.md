@@ -5,10 +5,17 @@ draft = false
 mainimage = "logogilgamesh"
 weight = 10
 +++
+{{% rimg "gil6" %}}
+### CATEGORIA: PALAVRA, TEATRO DE SOMBRAS E MÚSICA 
+### SINOPSE:
+Nesta adaptação d’A Epopeia de Gilgamesh - um dos mais antigos épicos registados, datando de cerca de 2000 AC - , 
+a palavra falada e a música narram a história do maior herói sumério através das apaixonantes marionetas de sombras, 
+num espectáculo sobre a bondade e a amizade, contando as aventuras de um herói e seu sucesso em superar as circunstâncias mais terríveis. 
 
-Nesta adaptação d’A Epopeia de Gilgamesh - um dos mais antigos épicos registados, datando de cerca de 2000 AC - , a palavra falada e a música narram a história do maior herói sumério através das apaixonantes marionetas de sombras, num espectáculo sobre a bondade e a amizade, contando as aventuras de um herói e seu sucesso em superar as circunstâncias mais terríveis. 
-
-Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrotar qualquer inimigo em batalha e até mesmo levantar montanhas. Quando Gilgamesh, na sua solidão e isolamento, começa a maltratar o povo de Uruk, os deuses decidem intervir enviando um desafio: Enkidu, o homem selvagem. Enkidu e Gilgamesh lutam, mas sendo que nenhum pode derrotar o outro, acabam eventualmente os melhores amigos. E aqui começam as aventuras!
+{{% rfimg "gil2" %}} Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrotar qualquer inimigo em batalha e até mesmo levantar montanhas. 
+Quando Gilgamesh, na sua solidão e isolamento, começa a maltratar o povo de Uruk, os deuses decidem intervir enviando um desafio: 
+Enkidu, o homem selvagem. Enkidu e Gilgamesh lutam, mas sendo que nenhum pode derrotar o outro, acabam eventualmente os melhores amigos. 
+E aqui começam as aventuras!
 
 #### Equipa Artística
 | | |
@@ -25,4 +32,11 @@ Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrota
 |Percussão| Tiago Pires|
 |Compositor| João Pacheco|
 
+{{% rimg "gil5" %}}
+
+PROMOTOR: QUESTÃO REPETIDA E ARTIS XXI
+
+PARCEIROS: Direção-Geral das Artes, Município de Lagoa, Município de Lagos e Região de Turismo do Algarve
+
+MEDIA: Antena 2
 
