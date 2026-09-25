@@ -12,9 +12,11 @@ locality = 'Auditório Carlos do Carmo, Lagoa'
 tags = ['artistica', 'teatro']
 
 +++
+{{% rimg "dif5" %}}
 ### SINOPSE:
 Diferente-Mente é um espetáculo que reúne com jovens adolescentes e jovens/ adultos com deficiência, as quais põem em causa a sua independência e autonomia perante uma sociedade altamente competitiva. O ser diferente, o pensar diferente são o ponto de partida desta criação artística e pretende demonstrar o quão importante se torna a expressão dramática, o movimento e a música nesta forma
 "diferente-mente" de comunicar.
+{{% rfimg "ana4" %}}
 <!--more-->
 
 #### CLASSIFICAÇÃO ETÁRIA: M/6
@@ -28,6 +30,8 @@ Diferente-Mente é um espetáculo que reúne com jovens adolescentes e jovens/ a
 |FIGURINOS E CENOGRAFIA | ANA BALEIA|
 |DESENHO DE LUZ | ANÍBAL BERNARDO|
 
+
+{{% rfimg "ana6" %}}
 PROMOTOR: QUESTÃO REPETIDA E ARTIS XXI
 
 PARCEIROS: Direção-Geral das Artes, Município de Lagoa, Município de Lagos e Região de Turismo do Algarve

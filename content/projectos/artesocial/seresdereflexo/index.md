@@ -13,10 +13,11 @@ tags = ['artesparticipativas', 'multidisciplinar']
 
 +++
 CATEGORIA: MULTIDISCIPLINAR
-
+{{% rimg "ser1" %}}
 ### SINOPSE:
 O autoconhecimento, a consciência do outro, bem como a nossa própria probidade são o mote para este espetáculo multidisciplinar que cruza diversos Elementos: Teatro, Artes Visuais e Música. Pretende-se encorajar os mais jovens a desafiarem os padrões, os conceitos e os preconceitos. A sensibilização dos jovens será feita através das Artes e da Cultura nas questões como: o respeito pelos Direitos Humanos, a Igualdade e Não Discriminação, a Promoção da Participação dos Jovens. O espetáculo será para o público em geral, mas também haverá uma sessão dedicada ao público escolar, mais concretamente os adolescentes, com os quais se julga que se poderá alcançar uma proximidade maior, até pelo facto de terem a possibilidade de ver colegas da sua faixa etária como performers.
 <!--more-->
+{{% rfimg "ser2" %}}
 #### CLASSIFICAÇÃO ETÁRIA: M/10
 
 ### FICHA ARTÍSTICA:
