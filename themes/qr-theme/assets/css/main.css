@@ -30,6 +30,10 @@ td {
   vertical-align: top;
 }
 
+.page-content, p {
+  text-align: justify;
+}
+
 .page-wrapper {
   display: flex;
   flex-direction: column;

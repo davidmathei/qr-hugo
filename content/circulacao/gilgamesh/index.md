@@ -5,7 +5,7 @@ draft = false
 mainimage = "logogilgamesh"
 weight = 10
 +++
-{{% rimg "gil6" %}}
+{{% rimg "gilb" %}}
 ### CATEGORIA: PALAVRA, TEATRO DE SOMBRAS E MÚSICA 
 ### SINOPSE:
 Nesta adaptação d’A Epopeia de Gilgamesh - um dos mais antigos épicos registados, datando de cerca de 2000 AC - , 
