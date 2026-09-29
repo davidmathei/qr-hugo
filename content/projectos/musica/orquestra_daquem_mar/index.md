@@ -4,7 +4,7 @@ draft = false
 title = "Orquestra d'Aquém Mar"
 +++
 
-{{% rimg "orq1" %}}
+{{% banner "orq1" %}}
 Doesn't the orquestra need another page? It's not a production but an artistic entity in itself.
 Image should be smaller in overview->500px ..
 <!--more-->

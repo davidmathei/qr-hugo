@@ -12,7 +12,7 @@ locality = 'Unknown'
 tags = ['artistica', 'teatro']
 
 +++
-{{% rimg "gil6" %}}
+{{% banner "gilb" %}}
 ### CATEGORIA: PALAVRA, TEATRO DE SOMBRAS E MÚSICA 
 ### SINOPSE:
 Nesta adaptação d’A Epopeia de Gilgamesh - um dos mais antigos épicos registados, datando de cerca de 2000 AC - , 
@@ -24,7 +24,7 @@ Quando Gilgamesh, na sua solidão e isolamento, começa a maltratar o povo de Ur
 Enkidu, o homem selvagem. Enkidu e Gilgamesh lutam, mas sendo que nenhum pode derrotar o outro, acabam eventualmente os melhores amigos. 
 E aqui começam as aventuras!
 
-### FICHA ARTÍSTICA:
+#### Equipa Artística
 | | |
 | --- | --- |
 |Ideia Original,  Dir. Artística, Narração| Ana Falé|

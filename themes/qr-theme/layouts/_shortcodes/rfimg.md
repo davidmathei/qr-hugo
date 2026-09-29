@@ -3,8 +3,8 @@
 {{- $imgnames := .Page.Resources.Match $matchfilter -}}
 {{- $img1 := (index $imgnames 0) -}}
 {{- $ext := (index (split $img1 ".") 1) -}}
-{{- $widths := slice "500" "300"  -}}
-{{- $sizes := "(width <= 500px) 300px, 500px"  -}}
+{{- $widths := slice "380" "200"  -}}
+{{- $sizes := "(width <= 400px) 200px, 380px"  -}}
 {{- $srcset := slice -}}
 
 {{- range $widths -}}
@@ -18,7 +18,7 @@
 {{- $src := index $src 0 -}}
 
 <img
-  class="contentimgfloat"
+  class="contentimgfloatright"
   srcset="{{ delimit $srcset ", "}}"
   sizes="{{ $sizes }}"
   src="{{ $src }}"

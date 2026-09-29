@@ -272,17 +272,25 @@ ul.agendalistitem .date {
 }
 
 
-.contentimgfloat, p:has(img.contentimgfloat) {
+.contentimgfloatright {
   float: right;
-  margin: 0.3em;
+  margin-top:0.2em; 
+  margin-left:1em;
 }
 
-p:has(img.contentimgfloat) {
+.contentimgfloatleft {
+  float: left;
+  margin-top:0.2em; 
+  margin-right:1em;
+}
+
+
+p:has(img.contentimgfloatleft), p:has(img.contentimgfloatright) {
   display: inline;
 }
 
 
-.contentimg {
+.contentimgxxx {
   max-width: 90%;
 }
 

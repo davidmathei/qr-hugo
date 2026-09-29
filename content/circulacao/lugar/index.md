@@ -5,7 +5,7 @@ draft = false
 mainimage = "logolugar"
 weight = 20
 +++
-{{% rimg "intro" %}}
+{{% banner "intro" %}}
 ### CATEGORIA: PALAVRA, ILUSTRAÇÃO E MÚSICA 
 ### SINOPSE:
 Lugar é um projeto que cruza música, fotografia, ilustração e vídeo, pretendendo cruzar épocas, pessoas e vivências num Lugar comum mas remoto.
@@ -23,6 +23,7 @@ Sobre o período do domínio muçulmano na Península Ibérica contam-se cerca d
 |Desenho de Luz| Oximoro|
 |Músicos |Orquestra Barroca  D’Aquém Mar|
 
-{{% rimg "ame2" %}}
+{{% banner "ame2" %}}
 
+MEDIA: Antena 2
 

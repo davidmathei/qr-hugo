@@ -13,7 +13,7 @@ tags = ['artesparticipativas', 'multidisciplinar']
 
 +++
 CATEGORIA: MULTIDISCIPLINAR
-{{% rimg "ref1" %}}
+{{% banner "ref1" %}}
 ### SINOPSE:
 No palco dá-se protagonismo e voz ao feminino.
 A música, o teatro e o movimento são as três áreas pilares desta criação.
