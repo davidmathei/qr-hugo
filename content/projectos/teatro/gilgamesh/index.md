@@ -39,7 +39,7 @@ E aqui começam as aventuras!
 |Percussão| Tiago Pires|
 |Compositor| João Pacheco|
 
-{{% rimg "gil5" %}}
+{{% rfimg "gil5" %}}
 
 PROMOTOR: QUESTÃO REPETIDA E ARTIS XXI
 

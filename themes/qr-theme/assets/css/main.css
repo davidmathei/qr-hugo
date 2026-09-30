@@ -148,7 +148,7 @@ header,footer {
 }
 
 .footerbg {
-   max-width: 1200px;
+   max-width: 960px;
    width: 100%;
    height: 384px;
 }
@@ -287,11 +287,6 @@ ul.agendalistitem .date {
 
 p:has(img.contentimgfloatleft), p:has(img.contentimgfloatright) {
   display: inline;
-}
-
-
-.contentimgxxx {
-  max-width: 90%;
 }
 
 /* BOXVIEW */
