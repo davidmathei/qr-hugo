@@ -4,7 +4,7 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 function = "Produção"
 tags = ["equipa"]
-picture = "homer.jpg"
+picture = "profil.jpg"
 weight = 40
 layout = "equipadetail"
 +++
