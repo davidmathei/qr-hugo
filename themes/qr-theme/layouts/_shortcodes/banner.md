@@ -3,8 +3,8 @@
 {{- $imgnames := .Page.Resources.Match $matchfilter -}}
 {{- $img1 := (index $imgnames 0) -}}
 {{- $ext := (index (split $img1 ".") 1) -}}
-{{- $widths := slice "1200" "800" "600" "380"  -}}
-{{- $sizes := "(width < 600px) 380px, (width < 800px) 600px, (width < 1200) 800px, 1200px"  -}}
+{{- $widths := slice "960" "750" "500" "360"  -}}
+{{- $sizes := "(width < 500px) 360px, (width < 750px) 500px, (width < 960) 750px, 960px"  -}}
 {{- $srcset := slice -}}
 
 {{- range $widths -}}
