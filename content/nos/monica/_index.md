@@ -5,7 +5,7 @@ draft = false
 picture = 'profil.jpg'
 function = "Designer Gráfico"
 tags = ['equipa']
-weight = 50
+weight = 40
 layout = "equipadetail"
 +++
 Mónica Catalá (1974) nasceu em Lisboa. Licenciada em Design de Comunicação pela Faculdade de Belas Artes de Lisboa, 

@@ -27,20 +27,20 @@ Em 2023, foi promotora de um projeto de arte comunitária no âmbito dos 250 ano
 
 ## MISSÃO 
 
-## CONCENTRA 
+### CONCENTRA 
 saberes e sensibilidades de profissionais de diversas áreas - das artes visuais à música, da dança ao teatro, da escrita à tecnologia - promovendo o encontro entre as diferentes formas de expressão
 
-## PROMOVE 
+### PROMOVE 
 dinâmicas multidisciplinares que ultrapassam fronteiras e estimulam colaborações que originam novas linguagens e formas de pensar
 
-## QUESTIONA 
+### QUESTIONA 
 o presente através da arte, convocando uma reflexão sobre temas intemporais 
 
-## PROVOCA 
+### PROVOCA 
 sentidos e perceções através de experiências que combinam som, imagem, movimento e palavra
 
-## EXECUTA 
+### EXECUTA 
 num movimento conjunto - onde a cultura, espaço e comunidade se cruzam - a criação como prática que move, intervém e reinventa.
 
-# Here comes the equipa.
+# A nossa Equipa
 

@@ -2,8 +2,8 @@
   {{- range where site.Pages "Params.Tags" "intersect" (slice "equipa") }}    
     <!-- extra-class based on type or tag -->
     <div class="list-item-container">
-      <h2>{{ .Params.title }}</h2>
-      <h3>{{ .Params.function }}</h3>
+      <h3>{{ .Params.title }}</h3>
+      <h4>{{ .Params.function }}</h4>
       <div class="summary">
          {{ with .Resources.Get .Params.picture }}
             <img class="thumb-equipa" src="{{ .RelPermalink }}" width="150px"/>

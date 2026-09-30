@@ -5,7 +5,7 @@ draft = false
 picture = 'profil.png'
 function = "Comunicação"
 tags = ['equipa']
-weight = 100
+weight = 20
 layout = "equipadetail"
 +++
 Just Ana.

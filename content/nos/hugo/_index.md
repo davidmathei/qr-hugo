@@ -5,7 +5,7 @@ draft = false
 function = "Produção"
 tags = ["equipa"]
 picture = "profil.jpg"
-weight = 40
+weight = 60
 layout = "equipadetail"
 +++
 Nasce em 1981 em Lisboa, mas é em Portimão que passa a sua infância e juventude. 
