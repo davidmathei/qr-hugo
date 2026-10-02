@@ -2,14 +2,14 @@
   {{- range where site.Pages "Params.Tags" "intersect" (slice "equipa") }}    
     <!-- extra-class based on type or tag -->
     <div class="list-item-container">
-      <h3>{{ .Params.title }}</h3>
-      <h4>{{ .Params.function }}</h4>
+      <h3><a href="{{ .RelPermalink }}">{{ .Params.title }}</a></h3>
+      <h5>{{ .Params.function }}</h5>
       <div class="summary">
          {{ with .Resources.Get .Params.picture }}
-            <img class="thumb-equipa" src="{{ .RelPermalink }}" width="150px"/>
+            <a href="{{ .RelPermalink }}"><img class="thumb-equipa" src="{{ .RelPermalink }}" width="150px"/></a>
          {{ end }}
       <!-- {{ .Summary }} -->
-      <br/><br/><a href="{{ .RelPermalink }}">ler&nbsp;mais</a>
+      <!-- <br/><br/><a href="{{ .RelPermalink }}">ler&nbsp;mais</a> -->
       </div>
       <!--
           image / thumbnail
