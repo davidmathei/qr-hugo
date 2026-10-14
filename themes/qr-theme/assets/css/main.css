@@ -205,9 +205,10 @@ a {
   margin: 1em;
 }
 
-.maybefloater {
-   float: right;
+img.maybefloater {
+   float: left;
    max-width: 200px;
+   margin-right:1.2em;
 }
 
 
@@ -285,7 +286,7 @@ ul.agendalistitem .date {
 }
 
 
-p:has(img.contentimgfloatleft), p:has(img.contentimgfloatright) {
+p:has(img.contentimgfloatleft), p:has(img.contentimgfloatright){
   display: inline;
 }
 
