@@ -24,7 +24,7 @@ Ao longo das 6 Edições contamos com:
 ||Artis XXI - Associação Cultural| 
 ||Lugar Comum|
 ||Walk’in Sagres|
-||Jorge Graça - Vídeo"
+||Jorge Graça - Vídeo|
 ||Parapente 700|
 ||Casa do Povo de Messines|
 ||Junta de Freguesia da Luz|
