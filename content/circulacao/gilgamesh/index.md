@@ -34,9 +34,12 @@ E aqui começam as aventuras!
 
 {{% rfimg "gil5" %}}
 
-PROMOTOR: QUESTÃO REPETIDA E ARTIS XXI
+#### Classificação Etária: M/6
 
-PARCEIROS: Direção-Geral das Artes, Município de Lagoa, Município de Lagos e Região de Turismo do Algarve
+#### Promotor:  QUESTÃO REPETIDA E ARTIS XXI
 
-MEDIA: Antena 2
+#### Parceiros: Direção-Geral das Artes, Município de Lagoa, Município de Lagos e Região de Turismo do Algarve
+
+#### Parceiros Media: Antena 2, Algarve Informativo, Barlavento, Correio de Lagos, Lagoa Informa, Rádio Lagoa
+
 

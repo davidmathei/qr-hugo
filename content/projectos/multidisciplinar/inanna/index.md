@@ -12,7 +12,6 @@ locality = 'Unknown'
 tags = ['artistica', 'teatro', 'palavra','musica']
 
 +++
-#### CATEGORIA: Multidisciplinar 
 ### SINOPSE:
 A criação do espectáculo “Inanna” parte do poema sumério, “A Descida de Inanna” (c. 3500 - 1600
 a.C) que narra a jornada de Inanna, - Rainha do Céu e da Terra -, ao mundo obscuro dos mortos para
@@ -42,4 +41,24 @@ memória, a relação divina dos lugares e da força que o passado ocupa nas nos
 |Cravo| Elsa Mathei|
 |Viola da Gamba| Ana Sousa|
 |Composição| João Pacheco e Pedro Louzeiro|
+
+
+
+#### Classificação etária: M/6
+
+#### Produção: QUESTÃO REPETIDA e ARTIS XXI
+
+#### Apoios: 
+DGArtes - Direção-Geral das Artes,
+Município de Lagoa,
+Município de Lagos,
+Turismo do Algarve
+
+#### Parceiros Media: 
+Antena 2,
+Algarve Informativo,
+Barlavento,
+Correio de Lagos,
+Lagoa Informa,
+Rádio Lagoa
 

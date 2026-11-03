@@ -7,11 +7,14 @@ weight = 30
 sub = "contemporania"
 +++
 
-Peça de carácter lúdico e festivo, vocalmente virtuosístico, explorando a musicalidade do canto dos pássaros que são invocados no texto, e que habitam as terras de Lagoa (Teresa Gentil, 2023). 
+_"Peça de carácter lúdico e festivo, vocalmente virtuosístico, explorando a musicalidade do canto dos pássaros que são invocados no texto, e que habitam as terras de Lagoa" (Teresa Gentil, 2023)._
 
 #### Equipa Artística 
 | | |
 | -- | -- |
+| | |
+|Composição|Teresa Gentil|
+| | |
 |Direção Artística e Cravo| Elsa Mathei|
 |Direção Musical e Oboé| Pedro Castro|
 |Soprano| Ana Sofia Ventura|
