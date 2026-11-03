@@ -33,9 +33,8 @@ Ao longo das 6 Edições contamos com:
 ||Grupo Desportivo Estrela de Bensafrim|
 ||QRER|
 ||Clube da Batucada|
-
 | | |
-| -- | -- |
+| | |
 | *Apoios* ||
 ||República Portuguesa|
 ||365 Algarve|
@@ -50,13 +49,13 @@ Ao longo das 6 Edições contamos com:
 ||Junta de Freguesia de Barão de São João|
 ||Junta de Freguesia de Odiáxere|
 ||Junta de Freguesia de São Marcos da Serra|
-
-
-#### Parceiros Media: 
-Jornal do Barlavento,
-Algarve Informativo,
-Cultugarve,
-Sul Informação,
-Portugal Resident,
-Terra Ruiva
+| | |
+| | |
+|*Parceiros Media*|| 
+||Jornal do Barlavento|
+||Algarve Informativo|
+||Cultugarve|
+||Sul Informação|
+||Portugal Resident|
+||Terra Ruiva|
 
