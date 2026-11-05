@@ -4,6 +4,7 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 mainimage = "logogilgamesh"
 weight = 10
+credits = ["Mónica Catalá", "Questão Repetida"]
 +++
 {{% banner "gilb" %}}
 ### CATEGORIA: PALAVRA, TEATRO DE SOMBRAS E MÚSICA 
@@ -12,7 +13,7 @@ Nesta adaptação d’A Epopeia de Gilgamesh - um dos mais antigos épicos regis
 a palavra falada e a música narram a história do maior herói sumério através das apaixonantes marionetas de sombras, 
 num espectáculo sobre a bondade e a amizade, contando as aventuras de um herói e seu sucesso em superar as circunstâncias mais terríveis. 
 
-{{% rfimg "gil2" %}} Reza a história que Gilgamesh era parte deus, parte humano, e que podia derrotar qualquer inimigo em batalha e até mesmo levantar montanhas. 
+Reza a história que Gilgamesh {{% rfimg "gil2" %}} era parte deus, parte humano, e que podia derrotar qualquer inimigo em batalha e até mesmo levantar montanhas. 
 Quando Gilgamesh, na sua solidão e isolamento, começa a maltratar o povo de Uruk, os deuses decidem intervir enviando um desafio: 
 Enkidu, o homem selvagem. Enkidu e Gilgamesh lutam, mas sendo que nenhum pode derrotar o outro, acabam eventualmente os melhores amigos. 
 E aqui começam as aventuras!
@@ -36,10 +37,21 @@ E aqui começam as aventuras!
 
 #### Classificação Etária: M/6
 
-#### Promotor:  QUESTÃO REPETIDA E ARTIS XXI
+#### Promotor:  
+QUESTÃO REPETIDA E ARTIS XXI
 
-#### Parceiros: Direção-Geral das Artes, Município de Lagoa, Município de Lagos e Região de Turismo do Algarve
+#### Parceiros: 
+- Direção-Geral das Artes 
+- Município de Lagoa 
+- Município de Lagos
+- Região de Turismo do Algarve
 
-#### Parceiros Media: Antena 2, Algarve Informativo, Barlavento, Correio de Lagos, Lagoa Informa, Rádio Lagoa
+#### Parceiros Media: 
+- Antena 2
+- Algarve Informativo
+- Barlavento 
+- Correio de Lagos
+- Lagoa Informa
+- Rádio Lagoa
 
 

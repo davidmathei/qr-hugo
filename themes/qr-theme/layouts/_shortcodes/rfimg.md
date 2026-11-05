@@ -1,4 +1,5 @@
 {{- $imgroot := (.Get 0 ) -}}
+{{- $copy := (.Get 1) -}}
 {{- $matchfilter := $imgroot | printf "%s*" -}}
 {{- $imgnames := .Page.Resources.Match $matchfilter -}}
 {{- $img1 := (index $imgnames 0) -}}

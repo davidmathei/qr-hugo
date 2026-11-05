@@ -273,18 +273,22 @@ ul.agendalistitem .date {
 }
 
 
-.contentimgfloatright {
+img.contentimgfloatright {
   float: right;
   margin-top:0.2em; 
   margin-left:1em;
 }
 
-.contentimgfloatleft {
+img.contentimgfloatleft {
   float: left;
   margin-top:0.2em; 
   margin-right:1em;
 }
 
+.credit {
+  font-size: 0.6em;
+  font-style: italic;
+}
 
 p:has(img.contentimgfloatleft), p:has(img.contentimgfloatright){
   display: inline;
